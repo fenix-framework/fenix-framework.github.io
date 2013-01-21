@@ -1,4 +1,4 @@
-fenix-framework.github.com
-==========================
+# Fénix Framework Web Page
 
-Fénix Framework Web Page
+Check it out [here](http://fenix-framework.github.com).
+
