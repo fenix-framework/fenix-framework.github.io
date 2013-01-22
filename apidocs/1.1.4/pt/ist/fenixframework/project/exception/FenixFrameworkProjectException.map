@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c23741" href="./SpecifiedRootDomainClassNotFoundException.html" title="pt.ist.fenixframework.project.exception.SpecifiedRootDomainClassNotFoundException" alt="" coords="15,209,321,234"/>
+<area shape="rect" id="c23742" href="./SpecifiedDmlFileNotFoundException.html" title="pt.ist.fenixframework.project.exception.SpecifiedDmlFileNotFoundException" alt="" coords="365,209,606,234"/>
+<area shape="rect" id="c23743" href="./NoArtifactNameSpecifiedException.html" title="pt.ist.fenixframework.project.exception.NoArtifactNameSpecifiedException" alt="" coords="650,209,881,234"/>
+<area shape="rect" id="c23744" href="./MissingRootDomainClassException.html" title="pt.ist.fenixframework.project.exception.MissingRootDomainClassException" alt="" coords="925,209,1163,234"/>
+<area shape="rect" id="c23745" href="./FenixFrameworkProjectException.html" title="pt.ist.fenixframework.project.exception.FenixFrameworkProjectException" alt="" coords="657,113,874,138"/>
+<area shape="rect" id="c23750" href="../persistence/exception/PersistenceInfoException.html" title="pt.ist.fenixframework.project.persistence.exception.PersistenceInfoException" alt="" coords="1208,209,1381,234"/>
+<area shape="rect" id="c23751" href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/Exception.html" title="java.lang.Exception" alt="" coords="725,17,806,42"/>
+</map>

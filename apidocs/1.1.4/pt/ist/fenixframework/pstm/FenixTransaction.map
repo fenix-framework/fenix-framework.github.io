@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="c14229" href="./TopLevelTransaction.html" title="pt.ist.fenixframework.pstm.TopLevelTransaction" alt="" coords="16,118,168,143"/>
+<area shape="rect" id="c14247" href="./FenixTransaction.html" title="pt.ist.fenixframework.pstm.FenixTransaction" alt="" coords="149,11,275,53"/>
+<area shape="rect" id="c14248" href="./FenixConsistencyCheckTransaction.html" title="pt.ist.fenixframework.pstm.FenixConsistencyCheckTransaction" alt="" coords="213,118,451,143"/>
+</map>

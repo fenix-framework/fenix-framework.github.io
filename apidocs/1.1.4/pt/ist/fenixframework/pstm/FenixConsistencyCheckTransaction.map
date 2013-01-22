@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c14394" href="./FenixTransaction.html" title="pt.ist.fenixframework.pstm.FenixTransaction" alt="" coords="16,11,141,53"/>
+<area shape="rect" id="c14395" href="./FenixConsistencyCheckTransaction.html" title="pt.ist.fenixframework.pstm.FenixConsistencyCheckTransaction" alt="" coords="130,118,369,143"/>
+<area shape="rect" id="c14464" href="http://java.sun.com/j2se/1.4.2/docs/api/jvstm/ReadTransaction.html" title="jvstm.ReadTransaction" alt="" coords="187,19,312,45"/>
+<area shape="rect" id="c14465" href="http://java.sun.com/j2se/1.4.2/docs/api/jvstm/cps/ConsistencyCheckTransaction.html" title="jvstm.cps.ConsistencyCheckTransaction" alt="" coords="357,11,710,53"/>
+</map>

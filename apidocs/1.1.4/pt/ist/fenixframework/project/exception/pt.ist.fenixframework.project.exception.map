@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2344" href="./SpecifiedRootDomainClassNotFoundException.html" title="pt.ist.fenixframework.project.exception.SpecifiedRootDomainClassNotFoundException" alt="" coords="15,113,321,138"/>
+<area shape="rect" id="c2345" href="./SpecifiedDmlFileNotFoundException.html" title="pt.ist.fenixframework.project.exception.SpecifiedDmlFileNotFoundException" alt="" coords="365,113,606,138"/>
+<area shape="rect" id="c2346" href="./NoArtifactNameSpecifiedException.html" title="pt.ist.fenixframework.project.exception.NoArtifactNameSpecifiedException" alt="" coords="650,113,881,138"/>
+<area shape="rect" id="c2347" href="./MissingRootDomainClassException.html" title="pt.ist.fenixframework.project.exception.MissingRootDomainClassException" alt="" coords="925,113,1163,138"/>
+<area shape="rect" id="c2348" href="./FenixFrameworkProjectException.html" title="pt.ist.fenixframework.project.exception.FenixFrameworkProjectException" alt="" coords="517,17,734,42"/>
+</map>

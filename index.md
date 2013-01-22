@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Welcome to the Fénix Framework project
+# Welcome to the Fénix Framework project
 
 Fénix Framework allows the development of Java-based applications that need a
 **transactional and persistent domain model**. Even though it was originally

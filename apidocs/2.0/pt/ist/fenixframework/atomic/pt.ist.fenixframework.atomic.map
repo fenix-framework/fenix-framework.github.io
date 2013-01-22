@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c379" href="./DefaultContextFactory.html" title="pt.ist.fenixframework.atomic.DefaultContextFactory" alt="" coords="15,118,169,143"/>
+<area shape="rect" id="c380" href="./DefaultAtomicContext.html" title="pt.ist.fenixframework.atomic.DefaultAtomicContext" alt="" coords="491,118,640,143"/>
+<area shape="rect" id="c381" href="./ProcessAtomicAnnotations.html" title="pt.ist.fenixframework.atomic.ProcessAtomicAnnotations" alt="" coords="664,19,845,45"/>
+<area shape="rect" id="c382" href="./GenerateAtomicInstance.html" title="pt.ist.fenixframework.atomic.GenerateAtomicInstance" alt="" coords="890,19,1059,45"/>
+<area shape="rect" id="c383" href="./DefaultContextFactoryViaReflection.html" title="pt.ist.fenixframework.atomic.DefaultContextFactoryViaReflection" alt="" coords="213,118,446,143"/>
+<area shape="rect" id="c384" href="./ContextFactory.html" title="pt.ist.fenixframework.atomic.ContextFactory" alt="" coords="155,19,266,45"/>
+<area shape="rect" id="c385" href="./AtomicContext.html" title="pt.ist.fenixframework.atomic.AtomicContext" alt="" coords="511,11,619,53"/>
+</map>

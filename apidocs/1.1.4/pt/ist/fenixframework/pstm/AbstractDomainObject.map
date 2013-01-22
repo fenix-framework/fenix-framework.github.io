@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c15975" href="../../../../dml/runtime/FenixDomainObject.html" title="dml.runtime.FenixDomainObject" alt="" coords="16,11,157,53"/>
+<area shape="rect" id="c16030" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.pstm.AbstractDomainObject" alt="" coords="179,118,333,143"/>
+<area shape="rect" id="c16008" href="./OneBoxDomainObject.html" title="pt.ist.fenixframework.pstm.OneBoxDomainObject" alt="" coords="181,214,331,239"/>
+<area shape="rect" id="c16064" href="../DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="202,11,310,53"/>
+<area shape="rect" id="c16088" href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/Serializable.html" title="java.io.Serializable" alt="" coords="355,11,448,53"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1508" href="./TestDmlPostProcessorMojo.html" title="pt.ist.fenixframework.dml.maven.TestDmlPostProcessorMojo" alt="" coords="16,113,208,138"/>
+<area shape="rect" id="c1509" href="./TestDmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.dml.maven.TestDmlCodeGeneratorMojo" alt="" coords="461,113,659,138"/>
+<area shape="rect" id="c1510" href="./IncludeProjectDependenciesComponentConfigurator.html" title="pt.ist.fenixframework.dml.maven.IncludeProjectDependenciesComponentConfigurator" alt="" coords="822,17,1159,42"/>
+<area shape="rect" id="c1511" href="./DmlPostProcessorMojo.html" title="pt.ist.fenixframework.dml.maven.DmlPostProcessorMojo" alt="" coords="253,113,417,138"/>
+<area shape="rect" id="c1512" href="./DmlMojoUtils.html" title="pt.ist.fenixframework.dml.maven.DmlMojoUtils" alt="" coords="1203,17,1303,42"/>
+<area shape="rect" id="c1513" href="./DmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.dml.maven.DmlCodeGeneratorMojo" alt="" coords="703,113,873,138"/>
+<area shape="rect" id="c1514" href="./AbstractDmlPostProcessorMojo.html" title="pt.ist.fenixframework.dml.maven.AbstractDmlPostProcessorMojo" alt="" coords="105,17,313,42"/>
+<area shape="rect" id="c1515" href="./AbstractDmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.dml.maven.AbstractDmlCodeGeneratorMojo" alt="" coords="569,17,778,42"/>
+</map>

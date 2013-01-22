@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c9952" href="./core/AbstractTransactionManager.html" title="pt.ist.fenixframework.core.AbstractTransactionManager" alt="" coords="15,219,203,245"/>
+<area shape="rect" id="c9978" href="./TransactionManager.html" title="pt.ist.fenixframework.TransactionManager" alt="" coords="393,113,540,154"/>
+<area shape="rect" id="c10103" href="./backend/infinispan/InfinispanTransactionManager.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanTransactionManager" alt="" coords="248,219,451,245"/>
+<area shape="rect" id="c10108" href="./backend/ogm/OgmTransactionManager.html" title="pt.ist.fenixframework.backend.ogm.OgmTransactionManager" alt="" coords="495,219,673,245"/>
+<area shape="rect" id="c10116" href="./backend/jvstmmem/JVSTMMemTransactionManager.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemTransactionManager" alt="" coords="717,219,939,245"/>
+<area shape="rect" id="c10122" href="http://java.sun.com/j2se/1.4.2/docs/api/javax/transaction/TransactionManager.html" title="javax.transaction.TransactionManager" alt="" coords="393,11,540,53"/>
+</map>

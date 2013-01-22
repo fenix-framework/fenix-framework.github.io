@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c5701" href="./AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="272,113,477,138"/>
+<area shape="rect" id="c5844" href="../backend/mem/MemDomainObject.html" title="pt.ist.fenixframework.backend.mem.MemDomainObject" alt="" coords="15,209,153,234"/>
+<area shape="rect" id="c5851" href="../backend/infinispan/InfinispanDomainObject.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanDomainObject" alt="" coords="197,209,361,234"/>
+<area shape="rect" id="c5857" href="../backend/ogm/OgmDomainObject.html" title="pt.ist.fenixframework.backend.ogm.OgmDomainObject" alt="" coords="405,209,537,234"/>
+<area shape="rect" id="c5864" href="../backend/jvstmmem/JVSTMMemDomainObject.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemDomainObject" alt="" coords="581,209,765,234"/>
+<area shape="rect" id="c5708" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="298,17,451,42"/>
+</map>

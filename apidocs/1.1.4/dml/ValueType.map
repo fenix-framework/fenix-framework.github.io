@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c2970" href="./ValueType.html" title="dml.ValueType" alt="" coords="198,113,287,154"/>
+<area shape="rect" id="c2975" href="./PlainValueType.html" title="dml.PlainValueType" alt="" coords="15,219,134,245"/>
+<area shape="rect" id="c2976" href="./ParamValueType.html" title="dml.ParamValueType" alt="" coords="178,219,307,245"/>
+<area shape="rect" id="c2978" href="./EnumValueType.html" title="dml.EnumValueType" alt="" coords="352,219,475,245"/>
+<area shape="rect" id="c3116" href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/Serializable.html" title="java.io.Serializable" alt="" coords="196,11,289,53"/>
+</map>

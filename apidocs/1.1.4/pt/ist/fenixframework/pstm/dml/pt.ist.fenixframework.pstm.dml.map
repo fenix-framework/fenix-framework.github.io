@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c626" href="./RoleOne.html" title="pt.ist.fenixframework.pstm.dml.RoleOne" alt="" coords="263,17,393,42"/>
+<area shape="rect" id="c627" href="./FenixValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.pstm.dml.FenixValueTypeSerializationGenerator" alt="" coords="15,113,273,138"/>
+<area shape="rect" id="c628" href="./FenixDomainModelWithOCC.html" title="pt.ist.fenixframework.pstm.dml.FenixDomainModelWithOCC" alt="" coords="1055,113,1251,138"/>
+<area shape="rect" id="c629" href="./FenixDomainModel.html" title="pt.ist.fenixframework.pstm.dml.FenixDomainModel" alt="" coords="1084,17,1223,42"/>
+<area shape="rect" id="c630" href="./FenixCodeGeneratorReadFromRsWithConverterClassParamOneBoxPerObject.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGeneratorReadFromRsWithConverterClassParamOneBoxPerObject" alt="" coords="631,209,1131,234"/>
+<area shape="rect" id="c631" href="./FenixCodeGeneratorReadFromRsWithConverterClassParam.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGeneratorReadFromRsWithConverterClassParam" alt="" coords="317,113,707,138"/>
+<area shape="rect" id="c632" href="./FenixCodeGeneratorOneBoxPerObject.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGeneratorOneBoxPerObject" alt="" coords="751,113,1011,138"/>
+<area shape="rect" id="c633" href="./FenixCodeGenerator.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGenerator" alt="" coords="437,17,587,42"/>
+</map>

@@ -8,8 +8,8 @@ body{background:#1a1a1a;color:#444;font:76% Verdana,Helvetica,sans-serif;}
 p{line-height:1.7em;margin-bottom:15px;}
 a{color:#467aa7;}
 a:hover{color:#333;}
-h1{color:#2a5a7a;font-family:Georgia,serif;font-size:2.4em;}
-h2{color:#467aa7;font-family:Georgia,serif;font-size:2.2em;font-weight:400;margin:0 0 10px 0;}
+h1{color:#2a5a7a;font-family:Georgia,serif;font-size:2.4em;font-weight:600;margin:0 0 10px 0;}
+h2{color:#467aa7;font-family:Georgia,serif;font-size:2.0em;font-weight:400;margin:0 0 10px 0;}
 h3{color:#467aa7;font-family:Georgia,serif;font-size:1.6em;font-weight:400;margin:0 0 8px;}
 ul,ol,dl{margin:0 0 20px 20px; padding:0;}
 li{padding-bottom:5px;}
@@ -73,6 +73,168 @@ li{padding-bottom:5px;}
 #credits{background-color:#333;color:#aaa;padding:15px 25px;}
 #credits p{text-align:left;font-size:1.2em;margin:0;padding:0;line-height:1.4em;}
 #credits a{color:#aaa;font-weight:400;}
+
+
+/* From github.css in Marked.app */
+code,tt{margin:0 2px;padding:2px 2px;white-space:nowrap;border:0px solid #ccc;background-color:#f8f8f8;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;font-size:12px}
+pre>code{margin:0;padding:0;white-space:pre;border:0;background:transparent;font-size:13px}
+.highlight pre,pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}
+#wrapper>pre,#wrapper>div.highlight{margin:10px 0 0}
+pre code,pre tt{background-color:transparent;border:0}
+#wrapper{background-color:#fff;border:1px solid #cacaca;padding:30px}
+.poetry pre{font-family:Georgia,Garamond,serif!important;font-style:italic;font-size:110%!important;line-height:1.6em;display:block;margin-left:1em}
+.poetry pre code{font-family:Georgia,Garamond,serif!important}
+sup,sub,a.footnote{font-size:1.4ex;height:0;line-height:1;vertical-align:super;position:relative}
+sub{vertical-align:sub;top:-1px}
+@media print{body{background:#fff}
+img,pre,blockquote,table,figure{page-break-inside:avoid}
+#wrapper{background:#fff;border:0}
+code{background-color:#fff;color:#444!important;padding:0 .2em;border:1px solid #dedede}
+pre code{background-color:#fff!important;overflow:visible}
+pre{background:#fff}
+}
+
+/* From github.css in Marked.app (syntax) */
+/* pre code { */
+/*   display: block; padding: 0.5em; */
+/*   color: #000; */
+/*   background: #f8f8ff */
+/* } */
+
+/* pre .comment, */
+/* pre .template_comment, */
+/* pre .diff .header, */
+/* pre .javadoc { */
+/*   color: #998; */
+/*   font-style: italic */
+/* } */
+
+/* pre .keyword, */
+/* pre .css .rule .keyword, */
+/* pre .winutils, */
+/* pre .javascript .title, */
+/* pre .lisp .title, */
+/* pre .subst { */
+/*   color: #000; */
+/*   font-weight: bold */
+/* } */
+
+/* pre .ruby .keyword { */
+/*   font-weight: normal */
+/* } */
+
+/* pre .number, */
+/* pre .hexcolor { */
+/*   color: #40a070 */
+/* } */
+
+/* pre .string, */
+/* pre .tag .value, */
+/* pre .phpdoc, */
+/* pre .tex .formula { */
+/*   color: #d14 */
+/* } */
+
+/* pre .title, */
+/* pre .id { */
+/*   color: #900; */
+/*   font-weight: bold */
+/* } */
+
+/* pre .javascript .title, */
+/* pre .lisp .title, */
+/* pre .subst { */
+/*   font-weight: normal */
+/* } */
+
+/* pre .class .title, */
+/* pre .haskell .label, */
+/* pre .tex .command { */
+/*   color: #458; */
+/*   font-weight: bold */
+/* } */
+
+/* pre .class .params { */
+/* 	color: #000; */
+/* } */
+
+/* pre .tag, */
+/* pre .tag .title, */
+/* pre .rules .property, */
+/* pre .django .tag .keyword { */
+/*   color: #000080; */
+/*   font-weight: normal */
+/* } */
+
+/* pre .attribute, */
+/* pre .variable, */
+/* pre .instancevar, */
+/* pre .lisp .body { */
+/*   color: #008080 */
+/* } */
+
+/* pre .regexp { */
+/*   color: #009926 */
+/* } */
+
+/* pre .class { */
+/*   color: #458; */
+/*   font-weight: bold */
+/* } */
+
+/* pre .symbol, */
+/* pre .ruby .symbol .string, */
+/* pre .ruby .symbol .keyword, */
+/* pre .ruby .symbol .keymethods, */
+/* pre .lisp .keyword, */
+/* pre .tex .special, */
+/* pre .input_number { */
+/*   color: #0086b3 */
+/* } */
+
+/* pre .ruby .identifier .keyword, */
+/* pre .ruby .identifier .keymethods { */
+/*   color: #0086b3; */
+/* } */
+
+/* pre .ruby .constant { */
+/*   color: #008080; */
+/* } */
+
+/* pre .builtin, */
+/* pre .built_in, */
+/* pre .lisp .title { */
+/*   color: #0086b3 */
+/* } */
+
+/* pre .preprocessor, */
+/* pre .pi, */
+/* pre .doctype, */
+/* pre .shebang, */
+/* pre .cdata { */
+/*   color: #999; */
+/*   font-weight: bold */
+/* } */
+
+/* pre .deletion { */
+/*   background: #fdd */
+/* } */
+
+/* pre .addition { */
+/*   background: #dfd */
+/* } */
+
+/* pre .diff .change { */
+/*   background: #0086b3 */
+/* } */
+
+/* pre .chunk { */
+/*   color: #aaa */
+/* } */
+
+/* pre .tex .formula { */
+/*   opacity: 0.5; */
+/* } */
 
 .left{float:left;width:49%;}
 .right{float:right;width:48%;}

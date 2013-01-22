@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c6942" href="./AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="16,214,221,239"/>
+<area shape="rect" id="c6949" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="1057,118,1210,143"/>
+<area shape="rect" id="c6971" href="../DomainRoot_Base.html" title="pt.ist.fenixframework.DomainRoot_Base" alt="" coords="267,214,397,239"/>
+<area shape="rect" id="c7046" href="../adt/bplustree/BPlusTree_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree_Base" alt="" coords="442,214,561,239"/>
+<area shape="rect" id="c7048" href="../adt/bplustree/AbstractNode_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNode_Base" alt="" coords="605,214,742,239"/>
+<area shape="rect" id="c7065" href="./adt/bplustree/BPlusTreeArray_Base.html" title="pt.ist.fenixframework.core.adt.bplustree.BPlusTreeArray_Base" alt="" coords="787,214,936,239"/>
+<area shape="rect" id="c7067" href="./adt/bplustree/BPlusTree_Base.html" title="pt.ist.fenixframework.core.adt.bplustree.BPlusTree_Base" alt="" coords="981,214,1099,239"/>
+<area shape="rect" id="c7069" href="./adt/bplustree/AbstractNodeArray_Base.html" title="pt.ist.fenixframework.core.adt.bplustree.AbstractNodeArray_Base" alt="" coords="1143,214,1313,239"/>
+<area shape="rect" id="c7071" href="./adt/bplustree/AbstractNode_Base.html" title="pt.ist.fenixframework.core.adt.bplustree.AbstractNode_Base" alt="" coords="1357,214,1494,239"/>
+<area shape="rect" id="c7073" href="./adt/linkedlist/ListNode_Base.html" title="pt.ist.fenixframework.core.adt.linkedlist.ListNode_Base" alt="" coords="1539,214,1648,239"/>
+<area shape="rect" id="c7075" href="./adt/linkedlist/LinkedList_Base.html" title="pt.ist.fenixframework.core.adt.linkedlist.LinkedList_Base" alt="" coords="1693,214,1811,239"/>
+<area shape="rect" id="c7077" href="./adt/skiplist/SkipListNode_Base.html" title="pt.ist.fenixframework.core.adt.skiplist.SkipListNode_Base" alt="" coords="1856,214,1992,239"/>
+<area shape="rect" id="c7079" href="./adt/skiplist/SkipList_Base.html" title="pt.ist.fenixframework.core.adt.skiplist.SkipList_Base" alt="" coords="2037,214,2142,239"/>
+<area shape="rect" id="c6977" href="../DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="1079,11,1187,53"/>
+</map>

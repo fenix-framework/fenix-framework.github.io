@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Publications
+# Publications
 
 Here are some scientific publications related to research on the Fénix
 Framework.  They are sorted by publication year.

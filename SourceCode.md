@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Accessing the source code
+# Accessing the Source Code
 
 The source code for Fénix Framework is available from
 [this GitHub repository](https://github.com/fenix-framework/fenix-framework/).

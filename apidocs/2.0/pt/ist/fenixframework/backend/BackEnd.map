@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c22291" href="./BackEnd.html" title="pt.ist.fenixframework.backend.BackEnd" alt="" coords="269,11,355,53"/>
+<area shape="rect" id="c22344" href="./mem/MemBackEnd.html" title="pt.ist.fenixframework.backend.mem.MemBackEnd" alt="" coords="15,118,121,143"/>
+<area shape="rect" id="c22351" href="./infinispan/InfinispanBackEnd.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanBackEnd" alt="" coords="165,118,297,143"/>
+<area shape="rect" id="c22357" href="./ogm/OgmBackEnd.html" title="pt.ist.fenixframework.backend.ogm.OgmBackEnd" alt="" coords="341,118,446,143"/>
+<area shape="rect" id="c22364" href="./jvstmmem/JVSTMMemBackEnd.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemBackEnd" alt="" coords="491,118,643,143"/>
+</map>

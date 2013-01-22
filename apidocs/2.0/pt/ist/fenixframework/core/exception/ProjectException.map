@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c8195" href="./SpecifiedDmlFileNotFoundException.html" title="pt.ist.fenixframework.core.exception.SpecifiedDmlFileNotFoundException" alt="" coords="15,209,257,234"/>
+<area shape="rect" id="c8196" href="./ProjectPropertiesNotFoundException.html" title="pt.ist.fenixframework.core.exception.ProjectPropertiesNotFoundException" alt="" coords="301,209,544,234"/>
+<area shape="rect" id="c8197" href="./ProjectException.html" title="pt.ist.fenixframework.core.exception.ProjectException" alt="" coords="363,113,483,138"/>
+<area shape="rect" id="c8198" href="./NoProjectNameSpecifiedException.html" title="pt.ist.fenixframework.core.exception.NoProjectNameSpecifiedException" alt="" coords="589,209,822,234"/>
+<area shape="rect" id="c8351" href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/Exception.html" title="java.lang.Exception" alt="" coords="382,17,463,42"/>
+</map>

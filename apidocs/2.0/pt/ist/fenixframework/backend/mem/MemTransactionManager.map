@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="c30880" href="../../core/AbstractTransactionManager.html" title="pt.ist.fenixframework.core.AbstractTransactionManager" alt="" coords="15,17,203,42"/>
+<area shape="rect" id="c31023" href="./MemTransactionManager.html" title="pt.ist.fenixframework.backend.mem.MemTransactionManager" alt="" coords="21,113,198,138"/>
+</map>

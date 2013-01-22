@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="c32477" href="../../core/AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="16,17,221,42"/>
+<area shape="rect" id="c32627" href="./InfinispanDomainObject.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanDomainObject" alt="" coords="37,113,201,138"/>
+</map>

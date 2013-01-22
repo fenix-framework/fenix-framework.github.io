@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c9469" href="../../../../../dml/CodeGenerator.html" title="dml.CodeGenerator" alt="" coords="454,17,570,42"/>
+<area shape="rect" id="c9496" href="./FenixCodeGenerator.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGenerator" alt="" coords="437,113,587,138"/>
+<area shape="rect" id="c9490" href="./FenixValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.pstm.dml.FenixValueTypeSerializationGenerator" alt="" coords="15,209,273,234"/>
+<area shape="rect" id="c9494" href="./FenixCodeGeneratorReadFromRsWithConverterClassParam.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGeneratorReadFromRsWithConverterClassParam" alt="" coords="317,209,707,234"/>
+<area shape="rect" id="c9495" href="./FenixCodeGeneratorOneBoxPerObject.html" title="pt.ist.fenixframework.pstm.dml.FenixCodeGeneratorOneBoxPerObject" alt="" coords="751,209,1011,234"/>
+</map>

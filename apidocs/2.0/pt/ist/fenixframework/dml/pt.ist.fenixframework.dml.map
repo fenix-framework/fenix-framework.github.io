@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="c755" href="./IndexesCodeGenerator.html" title="pt.ist.fenixframework.dml.IndexesCodeGenerator" alt="" coords="35,406,199,431"/>
+<area shape="rect" id="c756" href="./TxIntrospectorCodeGenerator.html" title="pt.ist.fenixframework.dml.TxIntrospectorCodeGenerator" alt="" coords="16,310,219,335"/>
+<area shape="rect" id="c757" href="./DAPCodeGenerator.html" title="pt.ist.fenixframework.dml.DAPCodeGenerator" alt="" coords="45,214,189,239"/>
+<area shape="rect" id="c758" href="./ValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.dml.ValueTypeSerializationGenerator" alt="" coords="234,214,459,239"/>
+<area shape="rect" id="c759" href="./ValueType.html" title="pt.ist.fenixframework.dml.ValueType" alt="" coords="538,11,627,53"/>
+<area shape="rect" id="c763" href="./PlainValueType.html" title="pt.ist.fenixframework.dml.PlainValueType" alt="" coords="355,118,474,143"/>
+<area shape="rect" id="c764" href="./ParamValueType.html" title="pt.ist.fenixframework.dml.ParamValueType" alt="" coords="518,118,647,143"/>
+<area shape="rect" id="c766" href="./EnumValueType.html" title="pt.ist.fenixframework.dml.EnumValueType" alt="" coords="692,118,815,143"/>
+<area shape="rect" id="c760" href="./Slot.html" title="pt.ist.fenixframework.dml.Slot" alt="" coords="675,19,719,45"/>
+<area shape="rect" id="c761" href="./Slot.Option.html" title="pt.ist.fenixframework.dml.Slot.Option" alt="" coords="768,11,877,53"/>
+<area shape="rect" id="c762" href="./Role.html" title="pt.ist.fenixframework.dml.Role" alt="" coords="923,19,973,45"/>
+<area shape="rect" id="c765" href="./ExternalizationElement.html" title="pt.ist.fenixframework.dml.ExternalizationElement" alt="" coords="1018,19,1177,45"/>
+<area shape="rect" id="c767" href="./DomainRelation.html" title="pt.ist.fenixframework.dml.DomainRelation" alt="" coords="1297,214,1415,239"/>
+<area shape="rect" id="c768" href="./DomainModel.html" title="pt.ist.fenixframework.dml.DomainModel" alt="" coords="1365,19,1470,45"/>
+<area shape="rect" id="c769" href="./DomainExternalEntity.html" title="pt.ist.fenixframework.dml.DomainExternalEntity" alt="" coords="1111,118,1260,143"/>
+<area shape="rect" id="c770" href="./DomainEntity.html" title="pt.ist.fenixframework.dml.DomainEntity" alt="" coords="1221,19,1321,45"/>
+<area shape="rect" id="c771" href="./DomainClass.html" title="pt.ist.fenixframework.dml.DomainClass" alt="" coords="1305,118,1407,143"/>
+<area shape="rect" id="c772" href="./DmlTreeParserTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTreeParserTokenTypes" alt="" coords="1515,11,1709,53"/>
+<area shape="rect" id="c773" href="./DmlTreeParser.html" title="pt.ist.fenixframework.dml.DmlTreeParser" alt="" coords="1555,118,1669,143"/>
+<area shape="rect" id="c774" href="./DmlTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTokenTypes" alt="" coords="1803,11,1928,53"/>
+<area shape="rect" id="c775" href="./DmlParser.html" title="pt.ist.fenixframework.dml.DmlParser" alt="" coords="1744,118,1829,143"/>
+<area shape="rect" id="c776" href="./DmlLexer.html" title="pt.ist.fenixframework.dml.DmlLexer" alt="" coords="1874,118,1953,143"/>
+<area shape="rect" id="c777" href="./DmlCompilerException.html" title="pt.ist.fenixframework.dml.DmlCompilerException" alt="" coords="1973,19,2133,45"/>
+<area shape="rect" id="c778" href="./DefaultCodeGenerator.html" title="pt.ist.fenixframework.dml.DefaultCodeGenerator" alt="" coords="153,118,311,143"/>
+<area shape="rect" id="c779" href="./CompilerArgs.html" title="pt.ist.fenixframework.dml.CompilerArgs" alt="" coords="2179,19,2283,45"/>
+<area shape="rect" id="c780" href="./CodeGenerator.html" title="pt.ist.fenixframework.dml.CodeGenerator" alt="" coords="177,19,287,45"/>
+<area shape="rect" id="c781" href="./CodeGenerator.PrimitiveToWrapperEntry.html" title="pt.ist.fenixframework.dml.CodeGenerator.PrimitiveToWrapperEntry" alt="" coords="2328,19,2501,45"/>
+<area shape="rect" id="c782" href="./Annotation.html" title="pt.ist.fenixframework.dml.Annotation" alt="" coords="2546,19,2630,45"/>
+<area shape="rect" id="c783" href="./AnnotatedSlot.html" title="pt.ist.fenixframework.dml.AnnotatedSlot" alt="" coords="2674,19,2779,45"/>
+</map>

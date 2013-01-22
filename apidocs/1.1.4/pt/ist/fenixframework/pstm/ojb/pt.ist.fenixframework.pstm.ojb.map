@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c1746" href="./WriteOnlyPersistentField.html" title="pt.ist.fenixframework.pstm.ojb.WriteOnlyPersistentField" alt="" coords="15,113,185,138"/>
+<area shape="rect" id="c1747" href="./ReadOnlyPersistentField.html" title="pt.ist.fenixframework.pstm.ojb.ReadOnlyPersistentField" alt="" coords="229,113,400,138"/>
+<area shape="rect" id="c1748" href="./FenixPersistentField.html" title="pt.ist.fenixframework.pstm.ojb.FenixPersistentField" alt="" coords="137,17,277,42"/>
+<area shape="rect" id="c1749" href="./FenixJdbcAccessImpl.html" title="pt.ist.fenixframework.pstm.ojb.FenixJdbcAccessImpl" alt="" coords="321,17,474,42"/>
+</map>

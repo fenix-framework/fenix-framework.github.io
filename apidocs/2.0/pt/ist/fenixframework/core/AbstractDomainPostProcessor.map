@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c6765" href="./PostProcessDomainClasses.html" title="pt.ist.fenixframework.core.PostProcessDomainClasses" alt="" coords="32,214,227,239"/>
+<area shape="rect" id="c6769" href="./AbstractDomainPostProcessor.html" title="pt.ist.fenixframework.core.AbstractDomainPostProcessor" alt="" coords="29,118,230,143"/>
+<area shape="rect" id="c6931" href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/ClassLoader.html" title="java.lang.ClassLoader" alt="" coords="16,19,109,45"/>
+<area shape="rect" id="c6932" href="http://java.sun.com/j2se/1.4.2/docs/api/org/objectweb/asm/Opcodes.html" title="org.objectweb.asm.Opcodes" alt="" coords="155,11,240,53"/>
+</map>

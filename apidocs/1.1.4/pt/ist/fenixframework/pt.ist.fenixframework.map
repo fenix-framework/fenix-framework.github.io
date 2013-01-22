@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c1437" href="./ValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.ValueTypeSerializationGenerator" alt="" coords="15,19,241,45"/>
+<area shape="rect" id="c1438" href="./ValueTypeSerializationGenerator.Serialized$TxNumber.html" title="pt.ist.fenixframework.ValueTypeSerializationGenerator.Serialized$TxNumber" alt="" coords="285,19,440,45"/>
+<area shape="rect" id="c1439" href="./TxNumber.html" title="pt.ist.fenixframework.TxNumber" alt="" coords="485,19,571,45"/>
+<area shape="rect" id="c1440" href="./TxIntrospector.html" title="pt.ist.fenixframework.TxIntrospector" alt="" coords="615,11,723,53"/>
+<area shape="rect" id="c1441" href="./TxIntrospector.Entry.html" title="pt.ist.fenixframework.TxIntrospector.Entry" alt="" coords="768,19,819,45"/>
+<area shape="rect" id="c1442" href="./TxIntrospector.RelationChangelog.html" title="pt.ist.fenixframework.TxIntrospector.RelationChangelog" alt="" coords="863,19,1001,45"/>
+<area shape="rect" id="c1443" href="./FFDomainException.html" title="pt.ist.fenixframework.FFDomainException" alt="" coords="1045,19,1189,45"/>
+<area shape="rect" id="c1444" href="./FenixFrameworkPlugin.html" title="pt.ist.fenixframework.FenixFrameworkPlugin" alt="" coords="1234,11,1393,53"/>
+<area shape="rect" id="c1445" href="./FenixFramework.html" title="pt.ist.fenixframework.FenixFramework" alt="" coords="1437,19,1558,45"/>
+<area shape="rect" id="c1446" href="./ExternalizationException.html" title="pt.ist.fenixframework.ExternalizationException" alt="" coords="1602,19,1771,45"/>
+<area shape="rect" id="c1447" href="./Externalization.html" title="pt.ist.fenixframework.Externalization" alt="" coords="1816,19,1925,45"/>
+<area shape="rect" id="c1448" href="./DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="1970,11,2078,53"/>
+<area shape="rect" id="c1449" href="./DomainModelUtil.html" title="pt.ist.fenixframework.DomainModelUtil" alt="" coords="2122,19,2246,45"/>
+<area shape="rect" id="c1450" href="./Config.html" title="pt.ist.fenixframework.Config" alt="" coords="2290,19,2350,45"/>
+</map>

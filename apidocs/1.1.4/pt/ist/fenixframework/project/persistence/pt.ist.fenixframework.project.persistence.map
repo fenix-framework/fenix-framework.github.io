@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c2496" href="./PersistenceInfo.html" title="pt.ist.fenixframework.project.persistence.PersistenceInfo" alt="" coords="147,19,259,45"/>
+<area shape="rect" id="c2498" href="./MySQLPersistenceInfo.html" title="pt.ist.fenixframework.project.persistence.MySQLPersistenceInfo" alt="" coords="16,118,173,143"/>
+<area shape="rect" id="c2499" href="./BerkeleyDBPersistenceInfo.html" title="pt.ist.fenixframework.project.persistence.BerkeleyDBPersistenceInfo" alt="" coords="218,118,403,143"/>
+<area shape="rect" id="c2497" href="./PersistenceInfo.PersistenceEngine.html" title="pt.ist.fenixframework.project.persistence.PersistenceInfo.PersistenceEngine" alt="" coords="304,11,437,53"/>
+</map>

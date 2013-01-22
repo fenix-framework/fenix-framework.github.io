@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c3888" href="./JVSTMMemTransactionManager.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemTransactionManager" alt="" coords="15,17,238,42"/>
+<area shape="rect" id="c3889" href="./JVSTMMemDomainObject.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemDomainObject" alt="" coords="283,17,467,42"/>
+<area shape="rect" id="c3890" href="./JVSTMMemConfig.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemConfig" alt="" coords="512,17,648,42"/>
+<area shape="rect" id="c3891" href="./JVSTMMemCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemCodeGenerator" alt="" coords="693,17,885,42"/>
+<area shape="rect" id="c3892" href="./JVSTMMemBackEnd.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemBackEnd" alt="" coords="931,17,1083,42"/>
+<area shape="rect" id="c3893" href="./DomainClassInfo.html" title="pt.ist.fenixframework.backend.jvstmmem.DomainClassInfo" alt="" coords="1127,17,1251,42"/>
+</map>

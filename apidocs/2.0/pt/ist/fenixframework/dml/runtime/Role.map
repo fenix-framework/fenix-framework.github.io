@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c18362" href="./RoleOne.html" title="pt.ist.fenixframework.dml.runtime.RoleOne" alt="" coords="15,118,419,143"/>
+<area shape="rect" id="c18363" href="./RoleMany.html" title="pt.ist.fenixframework.dml.runtime.RoleMany" alt="" coords="463,118,875,143"/>
+<area shape="rect" id="c18364" href="./RoleEmpty.html" title="pt.ist.fenixframework.dml.runtime.RoleEmpty" alt="" coords="920,118,1355,143"/>
+<area shape="rect" id="c18365" href="./Role.html" title="pt.ist.fenixframework.dml.runtime.Role" alt="" coords="471,11,868,53"/>
+</map>
