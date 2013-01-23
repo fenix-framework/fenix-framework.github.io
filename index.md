@@ -49,8 +49,8 @@ directions.
 
 ### Documentation on Fénix Framework 1.x
 
-This site focuses on the versions of Fénix Framework >= 2.0. For additional
-documentation about versions 1.x, take a look [here][FF1.x].
+This site focuses on Fénix Framework versions >= 2.0. For documentation
+concerning versions 1.x, take a look [here][FF1.x].
 
 
 [FénixEDU]: https://fenix-ashes.ist.utl.pt/fenixWiki
