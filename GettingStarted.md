@@ -45,8 +45,8 @@ following:
   data ([read more][BackEnds]);
   6. Build and run the application.
 
-Have a look at the [Quick Start page][QuickStart] for a guide to quickly create your first
-Fénix Framework-based application.
+Have a look at the [Quick Start page][QuickStart] for a guide to create your
+first Fénix Framework-based application.
 
 
 [Transactions]: Transactions.html

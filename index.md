@@ -34,8 +34,8 @@ object-oriented programming coding patterns.
 
 Programmers using the Fénix Framework specify the structure of the
 application's domain model using a new domain-specific language created to
-that effect, the Domain Modeling Language (DML), and then develop the rest of
-the application in plain Java.
+that effect, the [Domain Modeling Language (DML)][DML], and then develop the
+rest of the application in plain Java.
 
 ## Status
 
@@ -47,4 +47,12 @@ years. It is, therefore, a mature framework, even though it continues to be
 developed and there are many lines of development pushing it into other
 directions.
 
+### Documentation on Fénix Framework 1.x
+
+This site focuses on the versions of Fénix Framework >= 2.0. For additional
+documentation about versions 1.x, take a look [here][FF1.x].
+
+
 [FénixEDU]: https://fenix-ashes.ist.utl.pt/fenixWiki
+[DML]: DML.html
+[FF1.x]: https://fenix-ashes.ist.utl.pt/trac/fenix-framework
