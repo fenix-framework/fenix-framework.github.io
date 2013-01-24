@@ -1,0 +1,6 @@
+---
+layout: page
+---
+
+{{ site.posts }}
+

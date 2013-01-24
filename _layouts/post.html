@@ -1,7 +1,101 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.5 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="F&eacute;nix Framework Web Page" />
+	<meta name="keywords" content="DML, strong consistency, transactions, enterprise applications, STM, JVSTM, strict serializability" />
+	<meta name="author" content="F&eacute;nix Framework / Original design by andreasviklund.com" />
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/variant-multi.css" title="F&eacute;nix Framework" media="all" />
+	<title>F&eacute;nix Framework</title>
+    </head>
+
     <body>
-        <h3>After _layouts/page.html is finished, copy it to _layouts/post.html and update the ref to the stylesheet.</h3>
-        <p> Ideally, we could use a symbolic link if we can abstract the stylesheet path :-) </p>
+        <div id="containerfull"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
+            <div id="header">
+		<h1><a href="index.html">F&eacute;nix Framework</a></h1>
+		<!-- <h2>Develop Java applications with a transactional and -->
+		<!-- persistent domain model</h2> -->
+                <h2>Strict Serializability is Harmless!</h2>
+            </div>
+            <div id="menu">
+            	<ul>
+                    <!-- <li><a href="{{ site.baseurl }}/rss.xml"><img src="{{ site.baseurl }}/images/feed-icon-28x28.png" /></a></li> -->
+                    <li><a href="{{ site.baseurl }}/atom.xml"><img src="{{ site.baseurl }}/images/feed-icon-28x28.png" /></a></li>
+            <!--         <li><a href="Download.html">Source Code</a></li> -->
+            	</ul>
+            </div>
+            
+           <div id="feature">
+		<div class="left">			
+                    <h2>Domain Modelling Language </h2>
+                    
+                    <p>Use a lightweight Java-like domain-specific language to
+                    model the structure of your domain entities.  FF
+                    automatically generates all the back end code for you.</p>
+                    
+		</div>
+		<div class="right">
+                    <h2>Strong Consistency</h2>
+                    <p>Use a Software Transactional Memory to provide Strict
+                    Serializability for Enterprise Applications.</p>
+		</div>
+		<div class="clear">&nbsp;</div>
+            </div>
+            
+            <div id="main">
+		<div id="sidebar">
+                    <div class="sidebarbox">
+                        <h2>Documentation</h2>
+                        <ul class="sidemenu">
+                            <li><a href="{{ site.baseurl }}/index.html">About</a></li>
+                            <li><a href="{{ site.baseurl }}/QuickStart.html">Quick Start</a></li>
+                            <li><a href="{{ site.baseurl }}/Usage.html">Using the Framework</a></li>
+                            <li><a href="{{ site.baseurl }}/DML.html">DML</a></li>
+                            <li><a href="{{ site.baseurl }}/Transactions.html">Transactions</a></li>
+                            <li><a href="{{ site.baseurl }}/BackEnds.html">BackEnds</a></li>
+                            <li><a href="{{ site.baseurl }}/Publications.html">Publications</a></li>
+                            <li><a href="{{ site.baseurl }}/JavaDoc.html">JavaDoc</a></li>
+                            <li><a href="http://www.gnu.org/licenses/lgpl-3.0.txt">License</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="sidebarbox">
+                        <h2>Get Involved</h2>
+                        <!-- <p>This is a sidebar text box. It can be used for regular links:</p> -->
+                        <ul class="sidemenu">
+                            <li><a href="SourceCode.html">Source Code</a></li>
+                            <li><a href="http://groups.google.com/group/fenix-framework">Discussion Group</a></li>
+                            <li><a href="https://github.com/fenix-framework/fenix-framework/wiki">Wiki</a></li>
+                            <li><a href="Blog.html">Blog</a></li>
+                          </ul>
+                    </div>
+		</div>
+
+		<div id="content">
+                    {{ content }} <div class="clear">&nbsp;</div>
+                </div>
+		<div class="clear">&nbsp;</div>
+            </div>
+            <div id="footer">
+		<div id="footersections">
+                    <div class="lefty">
+                        <a href="http://www.gnu.org/licenses/lgpl-3.0.txt"><img src="http://www.gnu.org/graphics/lgplv3-88x31.png" /></a>
+                    </div>
+                    <div class="righty">
+                        <p>The work on Fénix Framework has been partially supported by <a href="http://www.fct.pt/">FCT</a>, via the Pastramy project (under contract number <a href="http://www.fct.pt/apoios/projectos/consulta/vglobal_projecto?idProjecto=72405&idElemConcurso=895">PTDC/EIA/72405/2006</a>), and, more recently, by the <a href="http://www.cloudtm.eu/">Cloud-TM</a> project, which is co-financed by the European Commission through the contract number <a href="http://cordis.europa.eu/fetch?CALLER=ICT_UNIFIEDSRCH&ACTION=D&DOC=1&CAT=PROJ&QUERY=013c6ccca531:8812:243381fc&RCN=94914">257784</a>.<p>
+                    </div>
+                    <div class="clear">&nbsp;</div> 
+		</div>
+            </div>   
+            
+            <div id="credits">
+		<p>&copy; 2008-2013 F&eacute;nix Framework<br />
+		<span class="small">Based on template design by <a href="http://andreasviklund.com/">Andreas Viklund</a></span></p>
+            </div>  
+        </div>
     </body>
 </html>
+
+<!-- Local Variables: -->
+<!-- mode: nxml -->
+<!-- End: -->
