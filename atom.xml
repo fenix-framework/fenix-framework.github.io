@@ -4,11 +4,11 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     
-    <title>Fénix Framework Blog</title>
+    <title>Fénix Framework</title>
     <link href="{{ site.baseurl }}/blog"/>
     <link type="application/atom+xml" rel="self" href="{{ site.baseurl }}/atom.xml"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>{{ site.baseurl }}</id>
+    <id>{{ site.baseurl }}/blog</id>
     <author>
         <name>Fénix Framework Team</name>
         <email>fenix-framework@googlegroups.com</email>
