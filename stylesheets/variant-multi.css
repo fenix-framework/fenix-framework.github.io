@@ -69,6 +69,8 @@ li{padding-bottom:5px;}
 #footersections .lasthalf{float:left;margin:0;width:50%;}
 #footersections .quarter{float:left;margin:0 3% 0 0;width:22%;}
 #footersections .lastquarter{float:left;width:25%;margin:0;}
+#footersections .lefty{float:left;margin:0 3% 0 0;width:12%;}
+#footersections .righty{float:right;width:85%;margin:0;}
 
 #credits{background-color:#333;color:#aaa;padding:15px 25px;}
 #credits p{text-align:left;font-size:1.2em;margin:0;padding:0;line-height:1.4em;}
