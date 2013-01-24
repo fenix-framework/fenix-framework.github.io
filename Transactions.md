@@ -5,7 +5,7 @@ layout: page
 # Transaction Support
 
 The Fénix Framework provides transaction support to applications through three
-distinct mechanisms:
+mechanisms:
 
   * standard *begin*, *commit* and *rollback* operations common to any
     transactional system;
