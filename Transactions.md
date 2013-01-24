@@ -48,15 +48,15 @@ Here's an example code:
         void someMethod() {
             // non-transactional code
             
-            TransactionManaer tm = FenixFramework.getTransactionManager();
+            TransactionManager tm = FenixFramework.getTransactionManager();
             tm.begin();
-            boolean txCommited = false;
+            boolean txcommitted = false;
             try {
                 // transactional code
                 tm.commit();
-                txCommited = true;
+                txcommitted = true;
             } finally {
-                if (! txCommited) {
+                if (! txcommitted) {
                     tm.rollback();
                 }
             }
