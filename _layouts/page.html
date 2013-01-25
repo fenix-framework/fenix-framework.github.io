@@ -10,7 +10,7 @@
     </head>
 
     <body>
-        <div id="containerfull"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
+        <div id="containerlimited"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
             <div id="header">
 		<h1><a href="{{ site.baseurl }}/index.html">F&eacute;nix Framework</a></h1>
 		<!-- <h2>Develop Java applications with a transactional and -->
@@ -25,18 +25,22 @@
             </div>
             
            <div id="feature">
-		<div class="left">			
+		<div class="a-third">
                     <h2>Domain Modelling Language </h2>
                     
-                    <p>Use a lightweight Java-like domain-specific language to
-                    model the structure of your domain entities.  FF
-                    automatically generates all the back end code for you.</p>
-                    
+                    <p>Model the structure of your domain entities with a
+                    lightweight Java-like domain-specific language and FF
+                    automatically generates all the support code.</p>
 		</div>
-		<div class="right">
+		<div class="a-third">
                     <h2>Strong Consistency</h2>
                     <p>Use a Software Transactional Memory to provide Strict
                     Serializability for Enterprise Applications.</p>
+		</div>
+		<div class="last-third">
+                    <h2>Transparent Persistence</h2>
+                    <p>Application state is automatically transferred to/from
+                    the underlying storage system.</p>
 		</div>
 		<div class="clear">&nbsp;</div>
             </div>

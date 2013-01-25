@@ -4,7 +4,7 @@ For more information, see http://andreasviklund.com/templates/variant-multi/
 */
 
 *{margin:0;padding:0;}
-body{background:#1a1a1a;color:#444;font:76% Verdana,Helvetica,sans-serif;}
+body{background:#ddd;color:#444;font:76% Verdana,Helvetica,sans-serif;}
 p{line-height:1.7em;margin-bottom:15px;}
 a{color:#467aa7;}
 a:hover{color:#333;}
@@ -14,8 +14,9 @@ h3{color:#467aa7;font-family:Georgia,serif;font-size:1.6em;font-weight:400;margi
 ul,ol,dl{margin:0 0 20px 20px; padding:0;}
 li{padding-bottom:5px;}
 
-#containerfull,#container980,#container760,#container600{margin:0 auto;padding:0;overflow:hidden;border-left:1px solid #ddd;border-right:1px solid #ddd;}
+#containerfull,#containerlimited,#container980,#container760,#container600{margin:0 auto;padding:0;overflow:hidden;border-left:1px solid #ddd;border-right:1px solid #ddd;}
 #containerfull{width:100%;border:0;}
+#containerlimited{max-width:1200px;}
 #container980{width:980px;}
 #container760{width:760px;}
 #container600{width:600px;}
@@ -25,7 +26,7 @@ li{padding-bottom:5px;}
 #header h1 a{color:#eee;font-family:Georgia,serif;font-size:2em;font-weight:400;text-decoration:none;}
 #header h2{color:#ddd;padding:0 0 10px 25px;margin:0;font-family:Georgia,serif;font-size:1.8em;font-weight:400;}
 
-#menu{background-color:#467aa7;height:40px;}
+#menu{background-color:#467aa7;height:20px;}
 #menu ul{float:right;height:40px;list-style:none;margin:0;padding:0 25px 0 0;}
 #menu ul li{background-color:#2a5a7a;display:block;float:left;margin:0 0 0 5px;padding:0;}
 #menu ul li a{background-color:#2a5a7a;color:#ddd;display:block;font-size:1.4em;padding:10px 12px;text-decoration:none;}
@@ -244,6 +245,9 @@ pre{background:#fff}
 /* pre .tex .formula { */
 /*   opacity: 0.5; */
 /* } */
+
+.a-third{float:left;width:30%;margin:0 3% 0 0;}
+.last-third{float:left;width:34%;margin:0;}
 
 .left{float:left;width:49%;}
 .right{float:right;width:48%;}
