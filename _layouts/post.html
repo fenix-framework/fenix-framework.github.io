@@ -27,29 +27,43 @@
             <div id="main">
 		<div id="sidebar">
                     <div class="sidebarbox">
-                        <h2>Documentation</h2>
-                        <ul class="sidemenu">
-                            <li><a href="{{ site.baseurl }}/index.html">About</a></li>
-                            <li><a href="{{ site.baseurl }}/QuickStart.html">Quick Start</a></li>
-                            <li><a href="{{ site.baseurl }}/Usage.html">Using the Framework</a></li>
-                            <li><a href="{{ site.baseurl }}/DML.html">DML</a></li>
-                            <li><a href="{{ site.baseurl }}/Transactions.html">Transactions</a></li>
-                            <li><a href="{{ site.baseurl }}/BackEnds.html">BackEnds</a></li>
-                            <li><a href="{{ site.baseurl }}/Publications.html">Publications</a></li>
-                            <li><a href="{{ site.baseurl }}/JavaDoc.html">JavaDoc</a></li>
-                            <li><a href="http://www.gnu.org/licenses/lgpl-3.0.txt">License</a></li>
+                        <h2>Fénix Framework Blog</h2>
+                        <ul>
+                            <li><a href="{{ site.baseurl }}/blog/index.html">Most recent posts</a></li>
                         </ul>
                     </div>
 
                     <div class="sidebarbox">
-                        <h2>Get Involved</h2>
-                        <!-- <p>This is a sidebar text box. It can be used for regular links:</p> -->
-                        <ul class="sidemenu">
-                            <li><a href="{{ site.baseurl }}/SourceCode.html">Source Code</a></li>
-                            <li><a href="http://groups.google.com/group/fenix-framework">Discussion Group</a></li>
-                            <li><a href="https://github.com/fenix-framework/fenix-framework/wiki">Wiki</a></li>
-                            <li><a href="{{ site.baseurl }}/blog/index.html">Blog</a></li>
-                          </ul>
+                      <h2>Archives</h2>
+                      <ul class="sidemenu">
+                        {% for post in site.posts %}
+                          {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+                          {% capture month %}{{ post.date | date: '%b' }}{% endcapture %}
+                          {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+                          {% capture nmonth %}{{ post.next.date | date: '%b' }}{% endcapture %}
+
+                          {% if post.next %}
+                            {% if month != nmonth %}
+                                  </ul> <!-- close posts for {{ nmonth }} -->
+                                </li> <!-- close {{ nmonth }} -->
+                            {% endif %}
+                            {% if year != nyear %}
+                              </ul> <!-- close {{ nyear }}'s months -->
+                            </li> <!-- close {{ nyear }} -->
+                            {% endif %}
+                          {% endif %}
+                          {% if year != nyear %}
+                            <li><a>{{ year }}</a>
+                              <ul> <!-- open months for {{ year }} -->
+                          {% endif %}
+                          {% if month != nmonth %}
+                                <li> <!-- open {{ month }} -->
+                                  <a>{{ month }}</a>
+                                  <ul> <!-- open posts for {{ month }} -->
+                          {% endif %}
+                                     <li><a href="{{ site.baseurl }}{{ post.url }}">&gt;{{ post.title }}</a></li>
+                        {% endfor %}
+                      </ul>
                     </div>
 		</div>
 

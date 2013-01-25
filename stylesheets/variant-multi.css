@@ -46,12 +46,19 @@ li{padding-bottom:5px;}
 #sidebar ul li{margin:0 0 5px 0;}
 #sidebar ul li a{color:#467aa7;font-weight:400;}
 #sidebar ul.sidemenu {margin:0;}
+
 #sidebar ul.sidemenu li{display:inline;padding:0;margin:0;}
 #sidebar ul.sidemenu li a{display:block;padding:7px 5px 6px 10px;font-size:1.2em; font-weight:400;text-decoration:none;border-bottom:1px solid #ddd;}
 #sidebar ul.sidemenu li a:hover{background-color:#eee;color:#333;border-bottom:1px solid #ccc;}
+
 #sidebar ul.sidemenu ul{margin:0;padding:0;font-size:0.9em;border-bottom:1px solid #ccc;}
 #sidebar ul.sidemenu ul li a{padding:5px 5px 5px 25px;border:0;font-weight:400;}
 #sidebar ul.sidemenu ul li a:hover{border:0;}
+
+#sidebar ul.sidemenu li ul li ul{margin:0;padding:0;font-size:0.8em;border-bottom:1px solid #ccc;}
+#sidebar ul.sidemenu li ul li ul li a{padding:1px 3px 3px 30px;border:0;font-weight:400;}
+#sidebar ul.sidemenu li ul li ul li a:hover{border:0;}
+
 #sidebar ul li a:hover{color:#333;}
 #sidebar h2{background-color:#467aa7;color:#fff;font-size:1.5em;margin:0 0 0 0;padding:10px;}
 #sidebar h3{font-size:1.4em; padding:10px 10px 0 10px;}

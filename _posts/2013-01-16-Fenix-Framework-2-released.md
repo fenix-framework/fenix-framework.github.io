@@ -11,5 +11,5 @@ Fénix Framework has undergone a huge refactoring from version 1.x to 2.0.
 Read all about the new stuff in the documentation available from the
 [main page][FF-web-page].
 
-[FF-web-page]: {{site.baseurl}}
+[FF-web-page]: {{site.baseurl}}/index.html
 
