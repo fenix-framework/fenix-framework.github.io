@@ -1,5 +1,6 @@
 ---
 layout: post
+author: smf
 ---
 
 ## How to provide Fénix framework configuration properties
