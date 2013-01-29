@@ -1,13 +1,15 @@
 ---
-layout: post
+layout: blog
 ---
 
 
 {% for post in site.posts %}
-  {{ post.content }}
-
-Posted on {{ post.date | date_to_string }}.
-
+  {% assign page = post %}
+  {% assign content = post.content %}
+  {% include only-the-post.html %}
+  
+<br/>
 -----
-
+<br/>
+<br/>
 {% endfor %}

@@ -5,3 +5,20 @@ pygments: true
 # When running jekyll on your local computer change the base url to point to
 # the _site directory (full-path)
 baseurl: http://fenix-framework.github.com
+
+authors:
+  smf:
+    name: Sérgio Miguel Fernandes
+    display_name: Sérgio Miguel Fernandes
+    gravatar: 77377d90d039823369a0ab9f657c448d
+    email: sergio.fernandes@ist.utl.pt
+    web: http://web.ist.utl.pt/sergio.fernandes
+    github: smmf
+  jcachopo:
+    name: João Cachopo
+    display_name: João Cachopo
+    gravatar: 715d9e9e0f7f2b27fd364468a662a47e
+    email:
+    web:
+    github: jcachopo
+

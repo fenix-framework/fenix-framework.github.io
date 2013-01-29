@@ -15,6 +15,7 @@ layout: nil
     </author>
 
     {% for post in site.posts %}
+    {% assign author = site.authors[post.author] %}
     <entry>
         <id>{{ site.baseurl }}{{ post.id }}</id>
         <link type="text/html" rel="alternate" href="{{ site.baseurl }}{{ post.url }}"/>
@@ -22,8 +23,8 @@ layout: nil
         <published>{{ post.date | date_to_xmlschema }}</published>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <author>
-            <name>Fénix Framework Team</name>
-            <uri>{{ site.baseurl }}</uri>
+            <name>{{ author.display_name }}</name>
+            <uri>{{ author.web }}</uri>
         </author>
         <content type="html">{{ post.content | xml_escape }}</content>
     </entry>

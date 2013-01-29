@@ -84,6 +84,10 @@ li{padding-bottom:5px;}
 #credits p{text-align:left;font-size:1.2em;margin:0;padding:0;line-height:1.4em;}
 #credits a{color:#aaa;font-weight:400;}
 
+/* Added stuff */
+/*.post .title{color:#467aa7;font-family:Georgia,serif;font-size:2.0em;font-weight:400;margin:0 0 10px 0;} */
+.post .date{color:#888;font-size:0.9em;}
+.post .meta{color:#888;font-size:0.9em;}
 
 /* From github.css in Marked.app */
 code,tt{margin:0 2px;padding:2px 2px;white-space:nowrap;border:0px solid #ccc;background-color:#f8f8f8;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;font-size:12px}

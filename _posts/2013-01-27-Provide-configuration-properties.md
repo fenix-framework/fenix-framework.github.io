@@ -1,12 +1,16 @@
 ---
 layout: post
+# The author must exist on _config.yml
 author: smf
+
+# Here are some useful options: 
+# published: false
+# title: Override here default title from file name
 ---
 
-## How to provide Fénix framework configuration properties
-
-In 2.1-SNAPSHOT we've updated how configuration by convention works.  It is
-now possible to give configuration properties in three ways:
+In 2.1-SNAPSHOT we've updated how configuration by convention works.  Here's a
+quick summary on how to provide Fénix framework configuration properties.  It
+is now possible to give configuration properties in three ways:
 
   1. using file `fenix-framework.properties`;
 
