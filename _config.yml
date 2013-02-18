@@ -4,8 +4,7 @@ lsi: false
 pygments: true
 # When running jekyll on your local computer change the base url to point to
 # the _site directory (full-path)
-# baseurl: http://fenix-framework.github.com
-baseurl: /Users/smf/home/fenix-project/github/webpage/_site
+baseurl: http://fenix-framework.github.com
 
 authors:
   jcachopo:
