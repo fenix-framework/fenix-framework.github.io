@@ -35,7 +35,7 @@ them) are the following:
   * The `Serializable` type.
   * The `bytearray` type (it will map into the Java type `byte[]`).
   * To represent dates and related types, there are the following built-in
-    value-types, from the JodaTime(http://joda-time.sourceforge.net/) API:
+    value-types, from the [JodaTime](http://joda-time.sourceforge.net/) API:
     `DateTime`, `LocalDate`, `LocalTime`, and `Partial`.
 
 [cachopo-phd-dml]: https://github.com/fenix-framework/fenix-framework/blob/master-ff2/docs/dml-doc.pdf?raw=true
