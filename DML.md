@@ -38,6 +38,46 @@ them) are the following:
     value-types, from the [JodaTime](http://joda-time.sourceforge.net/) API:
     `DateTime`, `LocalDate`, `LocalTime`, and `Partial`.
 
+## Example
+
+Here are a few examples of the use of DML to declare two domain classes of a hypothetical banking application:
+
+    class Client {
+        String name;
+    }
+
+    class Account {
+        int balance;
+        boolean closed;
+    }
+
+A relation between these two classes would look like this:
+
+    relation ClientAccounts {
+        Client playsRole client;
+        Account playsRole accounts {
+            multiplicity *;
+        }
+    }
+
+The framework's code generator processes DML files with these classes and relations.
+It creates a Java class for each DML class, with getter and setter methods for each slot, and each relation between classes.
+The generated methods use the names after the "playsRole" keyword.
+Here's an example of the use of the generated methods for the Client and the Account:
+
+    public class Client extends Client_Base {
+        // (...)
+        public int getTotalBalance() {
+            int totalBalance = 0;
+            for (Account account : getAccounts()) {
+                totalBalance += account.getBalance();
+            }
+            return totalBalance;
+        }
+    }
+
+
+
 [cachopo-phd-dml]: https://github.com/fenix-framework/fenix-framework/blob/master-ff2/docs/dml-doc.pdf?raw=true
 [cachopo-phd]: https://dspace.ist.utl.pt/bitstream/2295/132008/2/cachopo-phd.pdf
 [dml-reference]: https://github.com/fenix-framework/fenix-framework/blob/master-ff2/docs/dml-reference.md
