@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="c934" href="./RelationMulValuesIndexedAwareSet.html" title="pt.ist.fenixframework.dml.RelationMulValuesIndexedAwareSet" alt="" coords="16,19,701,45"/>
+<area shape="rect" id="c935" href="./IndexesCodeGenerator.html" title="pt.ist.fenixframework.dml.IndexesCodeGenerator" alt="" coords="605,406,769,431"/>
+<area shape="rect" id="c936" href="./TxIntrospectorCodeGenerator.html" title="pt.ist.fenixframework.dml.TxIntrospectorCodeGenerator" alt="" coords="585,310,788,335"/>
+<area shape="rect" id="c937" href="./DAPCodeGenerator.html" title="pt.ist.fenixframework.dml.DAPCodeGenerator" alt="" coords="615,214,759,239"/>
+<area shape="rect" id="c938" href="./ValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.dml.ValueTypeSerializationGenerator" alt="" coords="803,214,1029,239"/>
+<area shape="rect" id="c939" href="./ValueType.html" title="pt.ist.fenixframework.dml.ValueType" alt="" coords="1107,11,1197,53"/>
+<area shape="rect" id="c943" href="./PlainValueType.html" title="pt.ist.fenixframework.dml.PlainValueType" alt="" coords="925,118,1043,143"/>
+<area shape="rect" id="c944" href="./ParamValueType.html" title="pt.ist.fenixframework.dml.ParamValueType" alt="" coords="1087,118,1217,143"/>
+<area shape="rect" id="c946" href="./EnumValueType.html" title="pt.ist.fenixframework.dml.EnumValueType" alt="" coords="1261,118,1384,143"/>
+<area shape="rect" id="c940" href="./Slot.html" title="pt.ist.fenixframework.dml.Slot" alt="" coords="1245,19,1289,45"/>
+<area shape="rect" id="c941" href="./Slot.Option.html" title="pt.ist.fenixframework.dml.Slot.Option" alt="" coords="1337,11,1447,53"/>
+<area shape="rect" id="c942" href="./Role.html" title="pt.ist.fenixframework.dml.Role" alt="" coords="1493,19,1542,45"/>
+<area shape="rect" id="c945" href="./ExternalizationElement.html" title="pt.ist.fenixframework.dml.ExternalizationElement" alt="" coords="1587,19,1746,45"/>
+<area shape="rect" id="c947" href="./DomainRelation.html" title="pt.ist.fenixframework.dml.DomainRelation" alt="" coords="1867,214,1984,239"/>
+<area shape="rect" id="c948" href="./DomainModel.html" title="pt.ist.fenixframework.dml.DomainModel" alt="" coords="1934,19,2039,45"/>
+<area shape="rect" id="c949" href="./DomainExternalEntity.html" title="pt.ist.fenixframework.dml.DomainExternalEntity" alt="" coords="1680,118,1829,143"/>
+<area shape="rect" id="c950" href="./DomainEntity.html" title="pt.ist.fenixframework.dml.DomainEntity" alt="" coords="1790,19,1890,45"/>
+<area shape="rect" id="c951" href="./DomainClass.html" title="pt.ist.fenixframework.dml.DomainClass" alt="" coords="1874,118,1977,143"/>
+<area shape="rect" id="c952" href="./DmlTreeParserTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTreeParserTokenTypes" alt="" coords="2084,11,2279,53"/>
+<area shape="rect" id="c953" href="./DmlTreeParser.html" title="pt.ist.fenixframework.dml.DmlTreeParser" alt="" coords="2124,118,2239,143"/>
+<area shape="rect" id="c954" href="./DmlTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTokenTypes" alt="" coords="2372,11,2497,53"/>
+<area shape="rect" id="c955" href="./DmlParser.html" title="pt.ist.fenixframework.dml.DmlParser" alt="" coords="2313,118,2399,143"/>
+<area shape="rect" id="c956" href="./DmlLexer.html" title="pt.ist.fenixframework.dml.DmlLexer" alt="" coords="2443,118,2522,143"/>
+<area shape="rect" id="c957" href="./DmlCompilerException.html" title="pt.ist.fenixframework.dml.DmlCompilerException" alt="" coords="2543,19,2703,45"/>
+<area shape="rect" id="c958" href="./DefaultCodeGenerator.html" title="pt.ist.fenixframework.dml.DefaultCodeGenerator" alt="" coords="723,118,880,143"/>
+<area shape="rect" id="c959" href="./CompilerArgs.html" title="pt.ist.fenixframework.dml.CompilerArgs" alt="" coords="2748,19,2852,45"/>
+<area shape="rect" id="c960" href="./CodeGenerator.html" title="pt.ist.fenixframework.dml.CodeGenerator" alt="" coords="747,19,856,45"/>
+<area shape="rect" id="c961" href="./CodeGenerator.PrimitiveToWrapperEntry.html" title="pt.ist.fenixframework.dml.CodeGenerator.PrimitiveToWrapperEntry" alt="" coords="2897,19,3071,45"/>
+</map>

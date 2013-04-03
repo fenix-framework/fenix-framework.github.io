@@ -6,13 +6,17 @@ layout: page
 
 The source code for Fénix Framework is available from
 [this GitHub repository](https://github.com/fenix-framework/fenix-framework/).
-To obtain the version of the code that you want, you should take into account
-the following branches:
+We follow a [gitflow-oriented][gitflow] development process. To obtain the
+version of the code that you want, you should take into account the following
+branch names:
 
-  * `master` ([here][master-branch]): Fénix Framework releases < v2.0
-  * `master-ff2` ([here][master-ff2-branch]): Fénix Framework releases >= v2.0
-  * `cloudtm` ([here][cloudtm-branch]): Fénix Framework releases customised
-    for the [Cloud-TM project](http://www.cloudtm.eu/)
+  * `master` ([here][master-branch]): Fénix Framework official releases
+  * `develop` ([here][develop-branch]): Development branch.  Features are
+    developed from this branch on forks of the main repository
+  * `cloudtm/master` ([here][cloudtm-master-branch]): Fénix Framework releases
+    customised for the [Cloud-TM project](http://www.cloudtm.eu/).
+  * `cloudtm/develop` ([here][cloudtm-develop-branch]): Development branch for
+    the Cloud-TM project's specific features.
 
 During the second half of 2012, Fénix Framework has undergone a significant
 refactoring, in which we added the concept of a *Backend*.  Each concrete
@@ -24,20 +28,19 @@ This is possible because the code generators provided by each backend maintain
 a common API for the generated code.  This and many other core changes have
 led to the release of Fénix Framework 2.0.
 
-However, not all features from Fénix Framework 1.x have yet been ported to the
+However, not all features from Fénix Framework 1.x we're initially ported to the
 new architecture.  We intend to integrate all those features, but, until that
 happens, the `master` branch will be dedicated to releases of versions 1.x, as
 this is the version used, in production, by all applications that are deployed
 using the Fénix Framework.  Versions 1.x will only support the JVSTM on top of
-a MySQL database.
-
-New features will be developed and released to the `master-ff2` branch, until
-it actually integrates all the features from 1.x.  When that happens the next
-release will be integrated into `master` and `master-ff2` will no longer be
-used.
-
-[FF2]: http://www.github.com/fenix-framework/fenix-framework/tree/master-ff2
+a MySQL database.  The already release version 2.0 supports only the backends
+used in the Cloud-TM project, as porting all the 1.x codebase was more
+complex.  That has been achieved and is already in the development branch,
+ready to be included in release 2.1.  Hence, from release 2.1 upwards, the
+framework fully supersedes the functionality of versions 1.x.
 
 [master-branch]: http://www.github.com/fenix-framework/fenix-framework
-[master-ff2-branch]: http://www.github.com/fenix-framework/fenix-framework/tree/master-ff2
-[cloudtm-branch]: http://www.github.com/fenix-framework/fenix-framework/tree/cloudtm
+[develop-branch]: http://www.github.com/fenix-framework/fenix-framework/tree/develop
+[cloudtm-master-branch]: http://www.github.com/fenix-framework/fenix-framework/tree/cloudtm/master
+[cloudtm-develop-branch]: http://www.github.com/fenix-framework/fenix-framework/tree/cloudtm/develop
+[gitflow]: http://nvie.com/posts/a-successful-git-branching-model

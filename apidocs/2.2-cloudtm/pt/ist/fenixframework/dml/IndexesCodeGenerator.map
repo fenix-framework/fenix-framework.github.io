@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c13193" href="./IndexesCodeGenerator.html" title="pt.ist.fenixframework.dml.IndexesCodeGenerator" alt="" coords="310,113,474,138"/>
+<area shape="rect" id="c13294" href="../backend/mem/MemCodeGenerator.html" title="pt.ist.fenixframework.backend.mem.MemCodeGenerator" alt="" coords="15,209,161,234"/>
+<area shape="rect" id="c13301" href="../backend/infinispan/InfinispanCodeGenerator.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanCodeGenerator" alt="" coords="205,209,377,234"/>
+<area shape="rect" id="c13307" href="../backend/ogm/OgmCodeGenerator.html" title="pt.ist.fenixframework.backend.ogm.OgmCodeGenerator" alt="" coords="421,209,566,234"/>
+<area shape="rect" id="c13315" href="../backend/jvstmmem/JVSTMMemCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemCodeGenerator" alt="" coords="611,209,803,234"/>
+<area shape="rect" id="c13194" href="./TxIntrospectorCodeGenerator.html" title="pt.ist.fenixframework.dml.TxIntrospectorCodeGenerator" alt="" coords="291,17,493,42"/>
+</map>

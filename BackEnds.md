@@ -36,8 +36,8 @@ Persistence API mapping.
 
 ## STM-based backends
 
-The first implementations of the Fénix Framework (up to version 2.0) have no
-notion of replaceable backend, and support only an STM-based transactional
+The first implementations of the Fénix Framework (prior to version 2.0) have
+no notion of replaceable backend, and support only an STM-based transactional
 system (using [JVSTM][JVSTM]).  The [main development branch][ff-master]
 supported only data storage on top of [MySQL][mysql] using [OJB][OJB] as data
 mapper.  There was, however, parallel work that supported some NoSQL storage

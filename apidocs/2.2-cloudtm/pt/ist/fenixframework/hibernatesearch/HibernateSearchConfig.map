@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c30490" href="../dap/FFDAPConfig.html" title="pt.ist.fenixframework.dap.FFDAPConfig" alt="" coords="229,17,331,42"/>
+<area shape="rect" id="c30493" href="./HibernateSearchConfig.html" title="pt.ist.fenixframework.hibernatesearch.HibernateSearchConfig" alt="" coords="202,113,358,138"/>
+<area shape="rect" id="c30498" href="../backend/mem/MemConfig.html" title="pt.ist.fenixframework.backend.mem.MemConfig" alt="" coords="15,209,105,234"/>
+<area shape="rect" id="c30505" href="../backend/infinispan/InfinispanConfig.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanConfig" alt="" coords="149,209,265,234"/>
+<area shape="rect" id="c30511" href="../backend/ogm/OgmConfig.html" title="pt.ist.fenixframework.backend.ogm.OgmConfig" alt="" coords="309,209,398,234"/>
+<area shape="rect" id="c30519" href="../backend/jvstmmem/JVSTMMemConfig.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemConfig" alt="" coords="443,209,579,234"/>
+</map>

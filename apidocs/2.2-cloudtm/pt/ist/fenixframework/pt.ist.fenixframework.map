@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="c563" href="./ValueTypeSerializer.html" title="pt.ist.fenixframework.ValueTypeSerializer" alt="" coords="16,19,163,45"/>
+<area shape="rect" id="c564" href="./TransactionManager.html" title="pt.ist.fenixframework.TransactionManager" alt="" coords="208,11,355,53"/>
+<area shape="rect" id="c565" href="./TransactionListener.html" title="pt.ist.fenixframework.TransactionListener" alt="" coords="399,11,539,53"/>
+<area shape="rect" id="c566" href="./Transaction.html" title="pt.ist.fenixframework.Transaction" alt="" coords="584,11,677,53"/>
+<area shape="rect" id="c569" href="./FenixAbstractTransaction.html" title="pt.ist.fenixframework.FenixAbstractTransaction" alt="" coords="546,118,715,143"/>
+<area shape="rect" id="c567" href="./MultiConfig.html" title="pt.ist.fenixframework.MultiConfig" alt="" coords="722,19,809,45"/>
+<area shape="rect" id="c568" href="./FenixFramework.html" title="pt.ist.fenixframework.FenixFramework" alt="" coords="853,19,974,45"/>
+<area shape="rect" id="c570" href="./DomainRoot_Base.html" title="pt.ist.fenixframework.DomainRoot_Base" alt="" coords="1019,19,1149,45"/>
+<area shape="rect" id="c571" href="./DomainRoot.html" title="pt.ist.fenixframework.DomainRoot" alt="" coords="1036,118,1132,143"/>
+<area shape="rect" id="c572" href="./ConfigError.html" title="pt.ist.fenixframework.ConfigError" alt="" coords="1194,19,1283,45"/>
+<area shape="rect" id="c573" href="./Config.html" title="pt.ist.fenixframework.Config" alt="" coords="1328,19,1387,45"/>
+<area shape="rect" id="c574" href="./CommitListener.html" title="pt.ist.fenixframework.CommitListener" alt="" coords="1431,11,1545,53"/>
+<area shape="rect" id="c575" href="./CallableWithoutException.html" title="pt.ist.fenixframework.CallableWithoutException" alt="" coords="1589,11,1792,53"/>
+<area shape="rect" id="c576" href="./Atomic.html" title="pt.ist.fenixframework.Atomic" alt="" coords="1837,19,1899,45"/>
+<area shape="rect" id="c577" href="./DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="1943,11,2051,53"/>
+<area shape="rect" id="c578" href="./DmlCompiler.html" title="pt.ist.fenixframework.DmlCompiler" alt="" coords="2095,19,2195,45"/>
+</map>

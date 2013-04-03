@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c13905" href="./ValueType.html" title="pt.ist.fenixframework.dml.ValueType" alt="" coords="198,113,287,154"/>
+<area shape="rect" id="c13909" href="./PlainValueType.html" title="pt.ist.fenixframework.dml.PlainValueType" alt="" coords="15,219,134,245"/>
+<area shape="rect" id="c13910" href="./ParamValueType.html" title="pt.ist.fenixframework.dml.ParamValueType" alt="" coords="178,219,307,245"/>
+<area shape="rect" id="c13912" href="./EnumValueType.html" title="pt.ist.fenixframework.dml.EnumValueType" alt="" coords="352,219,475,245"/>
+<area shape="rect" id="c14028" href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/Serializable.html" title="java.io.Serializable" alt="" coords="196,11,289,53"/>
+</map>

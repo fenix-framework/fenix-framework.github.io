@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="c1139" href="./RoleOne.html" title="pt.ist.fenixframework.dml.runtime.RoleOne" alt="" coords="15,118,419,143"/>
+<area shape="rect" id="c1140" href="./RoleMany.html" title="pt.ist.fenixframework.dml.runtime.RoleMany" alt="" coords="463,118,875,143"/>
+<area shape="rect" id="c1141" href="./RoleEmpty.html" title="pt.ist.fenixframework.dml.runtime.RoleEmpty" alt="" coords="920,118,1355,143"/>
+<area shape="rect" id="c1142" href="./Role.html" title="pt.ist.fenixframework.dml.runtime.Role" alt="" coords="471,11,868,53"/>
+<area shape="rect" id="c1143" href="./RelationListener.html" title="pt.ist.fenixframework.dml.runtime.RelationListener" alt="" coords="1399,11,1865,53"/>
+<area shape="rect" id="c1146" href="./RelationAdapter.html" title="pt.ist.fenixframework.dml.runtime.RelationAdapter" alt="" coords="1399,118,1865,143"/>
+<area shape="rect" id="c1144" href="./RelationBaseSet.html" title="pt.ist.fenixframework.dml.runtime.RelationBaseSet" alt="" coords="2121,11,2271,53"/>
+<area shape="rect" id="c1145" href="./RelationAwareSet.html" title="pt.ist.fenixframework.dml.runtime.RelationAwareSet" alt="" coords="1909,118,2483,143"/>
+<area shape="rect" id="c1147" href="./Relation.html" title="pt.ist.fenixframework.dml.runtime.Relation" alt="" coords="2801,11,3218,53"/>
+<area shape="rect" id="c1149" href="./InverseRelation.html" title="pt.ist.fenixframework.dml.runtime.InverseRelation" alt="" coords="2528,118,2989,143"/>
+<area shape="rect" id="c1151" href="./DirectRelation.html" title="pt.ist.fenixframework.dml.runtime.DirectRelation" alt="" coords="3035,118,3488,143"/>
+<area shape="rect" id="c1148" href="./KeyFunction.html" title="pt.ist.fenixframework.dml.runtime.KeyFunction" alt="" coords="3262,11,3687,53"/>
+<area shape="rect" id="c1150" href="./DomainBasedMap.html" title="pt.ist.fenixframework.dml.runtime.DomainBasedMap" alt="" coords="3731,11,4023,53"/>
+</map>

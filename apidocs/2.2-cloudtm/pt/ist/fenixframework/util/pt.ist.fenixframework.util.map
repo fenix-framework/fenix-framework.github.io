@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="c1329" href="./TxMap.html" title="pt.ist.fenixframework.util.TxMap" alt="" coords="15,17,81,42"/>
+<area shape="rect" id="c1330" href="./NodeBarrier.html" title="pt.ist.fenixframework.util.NodeBarrier" alt="" coords="125,17,219,42"/>
+<area shape="rect" id="c1331" href="./Misc.html" title="pt.ist.fenixframework.util.Misc" alt="" coords="265,17,314,42"/>
+<area shape="rect" id="c1332" href="./JTADelegatingTransaction.html" title="pt.ist.fenixframework.util.JTADelegatingTransaction" alt="" coords="359,17,545,42"/>
+<area shape="rect" id="c1333" href="./Converter.html" title="pt.ist.fenixframework.util.Converter" alt="" coords="589,17,669,42"/>
+</map>

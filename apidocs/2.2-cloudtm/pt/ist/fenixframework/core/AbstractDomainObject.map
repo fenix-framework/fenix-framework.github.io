@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c6943" href="./AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="16,214,221,239"/>
+<area shape="rect" id="c6950" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="1089,118,1242,143"/>
+<area shape="rect" id="c6973" href="../DomainRoot_Base.html" title="pt.ist.fenixframework.DomainRoot_Base" alt="" coords="267,214,397,239"/>
+<area shape="rect" id="c7055" href="../adt/bplustree/BPlusTreeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTreeArray_Base" alt="" coords="443,214,592,239"/>
+<area shape="rect" id="c7057" href="../adt/bplustree/BPlusTree_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree_Base" alt="" coords="637,214,755,239"/>
+<area shape="rect" id="c7059" href="../adt/bplustree/AbstractNodeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNodeArray_Base" alt="" coords="799,214,969,239"/>
+<area shape="rect" id="c7061" href="../adt/bplustree/AbstractNode_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNode_Base" alt="" coords="1013,214,1150,239"/>
+<area shape="rect" id="c7063" href="../adt/linkedlist/ListNode_Base.html" title="pt.ist.fenixframework.adt.linkedlist.ListNode_Base" alt="" coords="1195,214,1304,239"/>
+<area shape="rect" id="c7065" href="../adt/linkedlist/LinkedList_Base.html" title="pt.ist.fenixframework.adt.linkedlist.LinkedList_Base" alt="" coords="1349,214,1467,239"/>
+<area shape="rect" id="c7069" href="../adt/skiplist/SkipListNode_Base.html" title="pt.ist.fenixframework.adt.skiplist.SkipListNode_Base" alt="" coords="1512,214,1648,239"/>
+<area shape="rect" id="c7071" href="../adt/skiplist/SkipList_Base.html" title="pt.ist.fenixframework.adt.skiplist.SkipList_Base" alt="" coords="1693,214,1798,239"/>
+<area shape="rect" id="c7109" href="../backend/jvstm/pstm/TransactionStatisticsEntry_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatisticsEntry_Base" alt="" coords="1842,214,2054,239"/>
+<area shape="rect" id="c7110" href="../backend/jvstm/pstm/FenixFrameworkData_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.FenixFrameworkData_Base" alt="" coords="2098,214,2281,239"/>
+<area shape="rect" id="c6980" href="../DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="1111,11,1219,53"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c3523" href="./OgmTransactionManager.html" title="pt.ist.fenixframework.backend.ogm.OgmTransactionManager" alt="" coords="15,17,193,42"/>
+<area shape="rect" id="c3524" href="./OgmOID.html" title="pt.ist.fenixframework.backend.ogm.OgmOID" alt="" coords="237,17,312,42"/>
+<area shape="rect" id="c3525" href="./OgmDomainObject.html" title="pt.ist.fenixframework.backend.ogm.OgmDomainObject" alt="" coords="357,17,489,42"/>
+<area shape="rect" id="c3526" href="./OgmConfig.html" title="pt.ist.fenixframework.backend.ogm.OgmConfig" alt="" coords="533,17,622,42"/>
+<area shape="rect" id="c3527" href="./OgmCodeGenerator.html" title="pt.ist.fenixframework.backend.ogm.OgmCodeGenerator" alt="" coords="666,17,811,42"/>
+<area shape="rect" id="c3528" href="./OgmBackEnd.html" title="pt.ist.fenixframework.backend.ogm.OgmBackEnd" alt="" coords="855,17,961,42"/>
+<area shape="rect" id="c3529" href="./DynamicEntityTuplizer.html" title="pt.ist.fenixframework.backend.ogm.DynamicEntityTuplizer" alt="" coords="1005,17,1163,42"/>
+<area shape="rect" id="c3530" href="./AllocationInterceptor.html" title="pt.ist.fenixframework.backend.ogm.AllocationInterceptor" alt="" coords="1207,17,1350,42"/>
+</map>

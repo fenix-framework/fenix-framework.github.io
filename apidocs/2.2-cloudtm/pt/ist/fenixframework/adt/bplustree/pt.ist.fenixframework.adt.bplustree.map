@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="c2058" href="./LeafNodeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.LeafNodeArray_Base" alt="" coords="15,209,161,234"/>
+<area shape="rect" id="c2059" href="./LeafNodeArray.html" title="pt.ist.fenixframework.adt.bplustree.LeafNodeArray" alt="" coords="32,305,144,330"/>
+<area shape="rect" id="c2060" href="./LeafNode_Base.html" title="pt.ist.fenixframework.adt.bplustree.LeafNode_Base" alt="" coords="479,209,593,234"/>
+<area shape="rect" id="c2061" href="./LeafNode.html" title="pt.ist.fenixframework.adt.bplustree.LeafNode" alt="" coords="496,305,576,330"/>
+<area shape="rect" id="c2062" href="./LeafNode.GenericLeafNodeIterator.html" title="pt.ist.fenixframework.adt.bplustree.LeafNode.GenericLeafNodeIterator" alt="" coords="689,17,876,42"/>
+<area shape="rect" id="c2063" href="./InnerNodeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.InnerNodeArray_Base" alt="" coords="205,209,355,234"/>
+<area shape="rect" id="c2064" href="./InnerNodeArray.html" title="pt.ist.fenixframework.adt.bplustree.InnerNodeArray" alt="" coords="223,305,337,330"/>
+<area shape="rect" id="c2065" href="./InnerNode_Base.html" title="pt.ist.fenixframework.adt.bplustree.InnerNode_Base" alt="" coords="637,209,755,234"/>
+<area shape="rect" id="c2066" href="./InnerNode.html" title="pt.ist.fenixframework.adt.bplustree.InnerNode" alt="" coords="655,305,737,330"/>
+<area shape="rect" id="c2067" href="./DoubleArray.html" title="pt.ist.fenixframework.adt.bplustree.DoubleArray" alt="" coords="921,17,1175,42"/>
+<area shape="rect" id="c2068" href="./BPlusTreeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTreeArray_Base" alt="" coords="1220,17,1369,42"/>
+<area shape="rect" id="c2069" href="./BPlusTreeArray.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTreeArray" alt="" coords="1157,113,1432,138"/>
+<area shape="rect" id="c2070" href="./BPlusTree_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree_Base" alt="" coords="1539,17,1658,42"/>
+<area shape="rect" id="c2071" href="./BPlusTree.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree" alt="" coords="1477,113,1720,138"/>
+<area shape="rect" id="c2072" href="./AbstractNodeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNodeArray_Base" alt="" coords="154,17,323,42"/>
+<area shape="rect" id="c2073" href="./AbstractNodeArray.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNodeArray" alt="" coords="100,113,377,138"/>
+<area shape="rect" id="c2074" href="./AbstractNode_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNode_Base" alt="" coords="507,17,645,42"/>
+<area shape="rect" id="c2075" href="./AbstractNode.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNode" alt="" coords="453,113,699,138"/>
+</map>
