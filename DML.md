@@ -78,7 +78,7 @@ Here's an example of the use of the generated methods for the Client and the Acc
 
 
 
-[cachopo-phd-dml]: https://github.com/fenix-framework/fenix-framework/blob/master-ff2/docs/dml-doc.pdf?raw=true
+[cachopo-phd-dml]: https://github.com/fenix-framework/fenix-framework/blob/master/docs/dml-doc.pdf?raw=true
 [cachopo-phd]: https://dspace.ist.utl.pt/bitstream/2295/132008/2/cachopo-phd.pdf
-[dml-reference]: https://github.com/fenix-framework/fenix-framework/blob/master-ff2/docs/dml-reference.md
+[dml-reference]: https://github.com/fenix-framework/fenix-framework/blob/master/docs/dml-reference.md
 
