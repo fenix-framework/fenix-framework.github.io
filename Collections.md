@@ -110,6 +110,7 @@ Note the single line within the 'configuration' tag:
 Note that to use a specific collection, the dependency on the corresponding module must be estabilished in the pom.xml. This means that if one configures the collection to be the Linked-List, then it must add the dependency to the linked-list module.
 
 The following collections are available with the corresponding modules:
+
 * B+Tree - pt.ist.fenixframework.core.adt.bplustree.BPlusTree - adt-bplustree
 * B+Tree improved in terms of performance - pt.ist.fenixframework.core.adt.bplustree.BPlusTreeArray - adt-bplustree
 * Skip-List - pt.ist.fenixframework.core.adt.skiplist.SkipList - adt-skiplist
