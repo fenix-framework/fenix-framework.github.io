@@ -41,7 +41,7 @@ rest of the application in plain Java.
 
 The core code of what later became the Fénix Framework started to be developed
 in 2004 and was first put into production in 2005, as part of the
-[FénixEDU][FénixEDU] project. It has been powering the FénixEDU web
+[FenixEDU][FenixEDU] project. It has been powering the FenixEDU web
 application since then, and several other applications over the last couple of
 years. It is, therefore, a mature framework, even though it continues to be
 developed and there are many lines of development pushing it into other
@@ -53,6 +53,6 @@ This site focuses on Fénix Framework versions >= 2.0. For documentation
 concerning versions 1.x, take a look [here][FF1.x].
 
 
-[FénixEDU]: https://fenix-ashes.ist.utl.pt/fenixWiki
+[FenixEDU]: http://www.fenixedu.org
 [DML]: DML.html
 [FF1.x]: https://fenix-ashes.ist.utl.pt/trac/fenix-framework
