@@ -37,6 +37,8 @@ them) are the following:
   * To represent dates and related types, there are the following built-in
     value-types, from the [JodaTime](http://joda-time.sourceforge.net/) API:
     `DateTime`, `LocalDate`, `LocalTime`, and `Partial`.
+  * For greater flexibility, the Framework support's [GSON's](https://code.google.com/p/google-gson/) 
+    `JsonElement` to allow the representation of unstructured data.
 
 ## Example
 
