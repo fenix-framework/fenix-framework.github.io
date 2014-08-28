@@ -7,6 +7,11 @@ layout: page
 Here are some scientific publications related to research on the Fénix
 Framework.  They are sorted by publication year.
 
+  * **Strongly Consistent Transactions for Enterprise Applications: Using
+    Software Transactional Memory to Improve Consistency and Performance of
+    Read-Dominated Workloads**, Sérgio Miguel Fernandes, 2014, Ph.D. thesis,
+    University of Lisbon
+
   * **Strict Serializability is Harmless: A New Architecture for Enterprise
     Applications**, Sérgio Miguel Fernandes, João Cachopo, 2011, SPLASH
     Wavefront 2011. [PDF](https://dspace.ist.utl.pt/bitstream/2295/1015911/2/wafr07-fernandesps.pdf)
