@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./IndexesCodeGenerator.html" title="pt.ist.fenixframework.dml.IndexesCodeGenerator" alt="" coords="35,406,189,431"/>
+<area shape="rect" id="node2_1" href="./TxIntrospectorCodeGenerator.html" title="pt.ist.fenixframework.dml.TxIntrospectorCodeGenerator" alt="" coords="16,310,208,335"/>
+<area shape="rect" id="node3_2" href="./RelationMulValuesIndexedAwareSet.html" title="pt.ist.fenixframework.dml.RelationMulValuesIndexedAwareSet" alt="" coords="319,19,980,45"/>
+<area shape="rect" id="node4_3" href="./DAPCodeGenerator.html" title="pt.ist.fenixframework.dml.DAPCodeGenerator" alt="" coords="45,214,179,239"/>
+<area shape="rect" id="node5_4" href="./ValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.dml.ValueTypeSerializationGenerator" alt="" coords="224,214,432,239"/>
+<area shape="rect" id="node6_5" href="./DmlCompilerException.html" title="pt.ist.fenixframework.dml.DmlCompilerException" alt="" coords="1025,19,1177,45"/>
+<area shape="rect" id="node7_6" href="./DefaultCodeGenerator.html" title="pt.ist.fenixframework.dml.DefaultCodeGenerator" alt="" coords="146,118,294,143"/>
+<area shape="rect" id="node8_7" href="./CompilerArgs.html" title="pt.ist.fenixframework.dml.CompilerArgs" alt="" coords="1223,19,1323,45"/>
+<area shape="rect" id="node9_8" href="./CodeGenerator.html" title="pt.ist.fenixframework.dml.CodeGenerator" alt="" coords="167,19,273,45"/>
+<area shape="rect" id="node10_9" href="./CodeGenerator.PrimitiveToWrapperEntry.html" title="pt.ist.fenixframework.dml.CodeGenerator.PrimitiveToWrapperEntry" alt="" coords="1369,19,1533,45"/>
+<area shape="rect" id="node11_10" href="./ValueType.html" title="pt.ist.fenixframework.dml.ValueType" alt="" coords="1578,11,1662,53"/>
+<area shape="rect" id="node15_11" href="./PlainValueType.html" title="pt.ist.fenixframework.dml.PlainValueType" alt="" coords="1407,118,1515,143"/>
+<area shape="rect" id="node16_12" href="./ParamValueType.html" title="pt.ist.fenixframework.dml.ParamValueType" alt="" coords="1561,118,1679,143"/>
+<area shape="rect" id="node20_13" href="./EnumValueType.html" title="pt.ist.fenixframework.dml.EnumValueType" alt="" coords="1725,118,1838,143"/>
+<area shape="rect" id="node12_14" href="./Slot.html" title="pt.ist.fenixframework.dml.Slot" alt="" coords="1889,118,1930,143"/>
+<area shape="rect" id="node13_15" href="./Slot.Option.html" title="pt.ist.fenixframework.dml.Slot.Option" alt="" coords="2107,11,2211,53"/>
+<area shape="rect" id="node14_16" href="./Role.html" title="pt.ist.fenixframework.dml.Role" alt="" coords="1983,118,2028,143"/>
+<area shape="rect" id="node17_17" href="./Modifier.html" title="pt.ist.fenixframework.dml.Modifier" alt="" coords="2256,11,2360,53"/>
+<area shape="rect" id="node18_18" href="./ModifiableEntity.html" title="pt.ist.fenixframework.dml.ModifiableEntity" alt="" coords="1949,19,2061,45"/>
+<area shape="rect" id="node24_19" href="./DomainEntity.html" title="pt.ist.fenixframework.dml.DomainEntity" alt="" coords="2077,118,2174,143"/>
+<area shape="rect" id="node19_20" href="./ExternalizationElement.html" title="pt.ist.fenixframework.dml.ExternalizationElement" alt="" coords="2405,19,2557,45"/>
+<area shape="rect" id="node21_21" href="./DomainRelation.html" title="pt.ist.fenixframework.dml.DomainRelation" alt="" coords="2153,310,2263,335"/>
+<area shape="rect" id="node22_22" href="./DomainModel.html" title="pt.ist.fenixframework.dml.DomainModel" alt="" coords="2603,19,2703,45"/>
+<area shape="rect" id="node23_23" href="./DomainExternalEntity.html" title="pt.ist.fenixframework.dml.DomainExternalEntity" alt="" coords="1971,214,2115,239"/>
+<area shape="rect" id="node25_24" href="./DomainClass.html" title="pt.ist.fenixframework.dml.DomainClass" alt="" coords="2160,214,2256,239"/>
+<area shape="rect" id="node26_25" href="./DmlTreeParserTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTreeParserTokenTypes" alt="" coords="2749,11,2925,53"/>
+<area shape="rect" id="node27_26" href="./DmlTreeParser.html" title="pt.ist.fenixframework.dml.DmlTreeParser" alt="" coords="2785,118,2889,143"/>
+<area shape="rect" id="node28_27" href="./DmlTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTokenTypes" alt="" coords="3019,11,3133,53"/>
+<area shape="rect" id="node29_28" href="./DmlParser.html" title="pt.ist.fenixframework.dml.DmlParser" alt="" coords="2961,118,3041,143"/>
+<area shape="rect" id="node30_29" href="./DmlLexer.html" title="pt.ist.fenixframework.dml.DmlLexer" alt="" coords="3087,118,3161,143"/>
+<area shape="rect" id="node31_30" href="./DeletionListener.html" title="pt.ist.fenixframework.dml.DeletionListener" alt="" coords="3178,11,3454,53"/>
+<area shape="rect" id="node32_31" href="./DeletionBlockerListener.html" title="pt.ist.fenixframework.dml.DeletionBlockerListener" alt="" coords="3500,11,3820,53"/>
+</map>

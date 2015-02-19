@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./JVSTMCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMCodeGenerator" alt="" coords="16,19,164,45"/>
+<area shape="rect" id="node2_1" href="./UnableToDetermineIdException.html" title="pt.ist.fenixframework.backend.jvstm.UnableToDetermineIdException" alt="" coords="209,19,413,45"/>
+<area shape="rect" id="node3_2" href="./JVSTMTransactionManager.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMTransactionManager" alt="" coords="459,19,638,45"/>
+<area shape="rect" id="node4_3" href="./JVSTMTransaction.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMTransaction" alt="" coords="683,19,811,45"/>
+<area shape="rect" id="node5_4" href="./JVSTMDomainObject.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMDomainObject" alt="" coords="857,19,1003,45"/>
+<area shape="rect" id="node6_5" href="./JVSTMConfig.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMConfig" alt="" coords="1049,19,1147,45"/>
+<area shape="rect" id="node7_6" href="./JVSTMBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMBackEnd" alt="" coords="1193,19,1307,45"/>
+<area shape="rect" id="node8_7" href="./FenixVBox.html" title="pt.ist.fenixframework.backend.jvstm.FenixVBox" alt="" coords="1352,11,1460,53"/>
+</map>

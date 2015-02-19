@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./FFTestAtomicPostProcessorMojo.html" title="pt.ist.fenixframework.atomic.maven.FFTestAtomicPostProcessorMojo" alt="" coords="16,209,228,234"/>
+<area shape="rect" id="node2_1" href="./FFAtomicPostProcessorMojo.html" title="pt.ist.fenixframework.atomic.maven.FFAtomicPostProcessorMojo" alt="" coords="274,209,461,234"/>
+<area shape="rect" id="node3_2" href="./TestAtomicPostProcessorMojo.html" title="pt.ist.fenixframework.atomic.maven.TestAtomicPostProcessorMojo" alt="" coords="27,113,225,138"/>
+<area shape="rect" id="node4_3" href="./IncludeProjectDependenciesComponentConfigurator.html" title="pt.ist.fenixframework.atomic.maven.IncludeProjectDependenciesComponentConfigurator" alt="" coords="388,17,712,42"/>
+<area shape="rect" id="node5_4" href="./AtomicPostProcessorMojo.html" title="pt.ist.fenixframework.atomic.maven.AtomicPostProcessorMojo" alt="" coords="277,113,449,138"/>
+<area shape="rect" id="node6_5" href="./AbstractAtomicProcessorMojo.html" title="pt.ist.fenixframework.atomic.maven.AbstractAtomicProcessorMojo" alt="" coords="147,17,343,42"/>
+</map>

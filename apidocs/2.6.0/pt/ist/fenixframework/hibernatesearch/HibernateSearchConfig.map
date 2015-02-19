@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../dap/FFDAPConfig.html" title="pt.ist.fenixframework.dap.FFDAPConfig" alt="" coords="334,17,434,42"/>
+<area shape="rect" id="node2_1" href="./HibernateSearchConfig.html" title="pt.ist.fenixframework.hibernatesearch.HibernateSearchConfig" alt="" coords="308,113,460,138"/>
+<area shape="rect" id="node3_2" href="../backend/infinispan/InfinispanConfig.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanConfig" alt="" coords="16,209,131,234"/>
+<area shape="rect" id="node4_3" href="../backend/jvstm/JVSTMConfig.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMConfig" alt="" coords="176,209,275,234"/>
+<area shape="rect" id="node5_4" href="../backend/jvstmmem/JVSTMMemConfig.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemConfig" alt="" coords="320,209,448,234"/>
+<area shape="rect" id="node6_5" href="../backend/mem/MemConfig.html" title="pt.ist.fenixframework.backend.mem.MemConfig" alt="" coords="494,209,581,234"/>
+<area shape="rect" id="node7_6" href="../backend/ogm/OgmConfig.html" title="pt.ist.fenixframework.backend.ogm.OgmConfig" alt="" coords="626,209,713,234"/>
+</map>

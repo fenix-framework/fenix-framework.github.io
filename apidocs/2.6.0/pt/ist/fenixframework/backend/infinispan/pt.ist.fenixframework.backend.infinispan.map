@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./InfinispanCodeGenerator.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanCodeGenerator" alt="" coords="16,17,180,42"/>
+<area shape="rect" id="node2_1" href="./OID.html" title="pt.ist.fenixframework.backend.infinispan.OID" alt="" coords="230,17,273,42"/>
+<area shape="rect" id="node3_2" href="./InfinispanTransactionManager.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanTransactionManager" alt="" coords="322,17,517,42"/>
+<area shape="rect" id="node4_3" href="./InfinispanDomainObject.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanDomainObject" alt="" coords="562,17,722,42"/>
+<area shape="rect" id="node5_4" href="./InfinispanConfig.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanConfig" alt="" coords="767,17,882,42"/>
+<area shape="rect" id="node6_5" href="./InfinispanBackEnd.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanBackEnd" alt="" coords="928,17,1057,42"/>
+</map>

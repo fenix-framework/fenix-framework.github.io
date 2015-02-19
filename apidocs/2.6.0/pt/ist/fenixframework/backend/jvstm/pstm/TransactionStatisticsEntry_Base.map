@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../../core/AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="46,17,197,42"/>
+<area shape="rect" id="node2_1" href="./TransactionStatisticsEntry_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatisticsEntry_Base" alt="" coords="16,113,227,138"/>
+<area shape="rect" id="node3_2" href="./TransactionStatisticsEntry.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatisticsEntry" alt="" coords="36,209,207,234"/>
+</map>

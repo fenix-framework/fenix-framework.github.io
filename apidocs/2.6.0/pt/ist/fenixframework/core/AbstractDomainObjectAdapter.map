@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="501,113,701,138"/>
+<area shape="rect" id="node3_1" href="../backend/infinispan/InfinispanDomainObject.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanDomainObject" alt="" coords="16,209,176,234"/>
+<area shape="rect" id="node4_2" href="../backend/jvstm/JVSTMDomainObject.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMDomainObject" alt="" coords="222,209,367,234"/>
+<area shape="rect" id="node5_3" href="../backend/jvstmmem/JVSTMMemDomainObject.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemDomainObject" alt="" coords="413,209,585,234"/>
+<area shape="rect" id="node6_4" href="../backend/jvstmojb/pstm/AbstractDomainObject.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.AbstractDomainObject" alt="" coords="630,209,781,234"/>
+<area shape="rect" id="node7_5" href="../backend/mem/MemDomainObject.html" title="pt.ist.fenixframework.backend.mem.MemDomainObject" alt="" coords="826,209,958,234"/>
+<area shape="rect" id="node8_6" href="../backend/ogm/OgmDomainObject.html" title="pt.ist.fenixframework.backend.ogm.OgmDomainObject" alt="" coords="1003,209,1133,234"/>
+<area shape="rect" id="node2_7" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="526,17,677,42"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ToSqlConverter.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.ToSqlConverter" alt="" coords="16,17,124,42"/>
+<area shape="rect" id="node2_1" href="./SQLUpdateGenerator.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.SQLUpdateGenerator" alt="" coords="170,17,314,42"/>
+<area shape="rect" id="node3_2" href="./SQLTableInfo.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.SQLTableInfo" alt="" coords="359,17,458,42"/>
+<area shape="rect" id="node4_3" href="./SQLTableInfo.Column.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.SQLTableInfo.Column" alt="" coords="503,17,567,42"/>
+<area shape="rect" id="node5_4" href="./SQLTableChangeSet.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.SQLTableChangeSet" alt="" coords="613,17,753,42"/>
+<area shape="rect" id="node6_5" href="./ServerId.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.ServerId" alt="" coords="799,17,867,42"/>
+<area shape="rect" id="node7_6" href="./ResultSetReader.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.ResultSetReader" alt="" coords="913,17,1030,42"/>
+<area shape="rect" id="node8_7" href="./RepositoryBootstrap.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.RepositoryBootstrap" alt="" coords="1076,17,1216,42"/>
+<area shape="rect" id="node9_8" href="./PartialFormatException.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.PartialFormatException" alt="" coords="1261,17,1415,42"/>
+<area shape="rect" id="node10_9" href="./PartialExternalization.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.PartialExternalization" alt="" coords="1460,17,1600,42"/>
+<area shape="rect" id="node11_10" href="./LocalDateExternalization.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.LocalDateExternalization" alt="" coords="1646,17,1809,42"/>
+<area shape="rect" id="node12_11" href="./DbUtil.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.DbUtil" alt="" coords="1854,17,1910,42"/>
+<area shape="rect" id="node13_12" href="./DbUtil.DBLockedCommand.html" title="pt.ist.fenixframework.backend.jvstmojb.repository.DbUtil.DBLockedCommand" alt="" coords="1955,17,2094,42"/>
+</map>

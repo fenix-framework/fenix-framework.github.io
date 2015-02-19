@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../DomainMetaObject_Base.html" title="pt.ist.fenixframework.DomainMetaObject_Base" alt="" coords="16,214,184,239"/>
+<area shape="rect" id="node2_1" href="../DomainMetaClass_Base.html" title="pt.ist.fenixframework.DomainMetaClass_Base" alt="" coords="229,214,392,239"/>
+<area shape="rect" id="node3_2" href="../DomainFenixFrameworkRoot_Base.html" title="pt.ist.fenixframework.DomainFenixFrameworkRoot_Base" alt="" coords="437,214,661,239"/>
+<area shape="rect" id="node4_3" href="../DomainBPlusTreeData_Base.html" title="pt.ist.fenixframework.DomainBPlusTreeData_Base" alt="" coords="707,214,895,239"/>
+<area shape="rect" id="node5_4" href="../DomainRoot_Base.html" title="pt.ist.fenixframework.DomainRoot_Base" alt="" coords="941,214,1069,239"/>
+<area shape="rect" id="node6_5" href="../DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="1942,11,2045,53"/>
+<area shape="rect" id="node8_6" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="1918,118,2069,143"/>
+<area shape="rect" id="node7_7" href="./AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="1115,214,1315,239"/>
+<area shape="rect" id="node9_8" href="../data/InstallationData_Base.html" title="pt.ist.fenixframework.data.InstallationData_Base" alt="" coords="1360,214,1507,239"/>
+<area shape="rect" id="node10_9" href="../adt/bplustree/BPlusTreeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTreeArray_Base" alt="" coords="1553,214,1701,239"/>
+<area shape="rect" id="node11_10" href="../adt/bplustree/BPlusTree_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree_Base" alt="" coords="1747,214,1864,239"/>
+<area shape="rect" id="node12_11" href="../adt/bplustree/AbstractNodeArray_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNodeArray_Base" alt="" coords="1910,214,2077,239"/>
+<area shape="rect" id="node13_12" href="../adt/bplustree/AbstractNode_Base.html" title="pt.ist.fenixframework.adt.bplustree.AbstractNode_Base" alt="" coords="2123,214,2259,239"/>
+<area shape="rect" id="node14_13" href="../adt/linkedlist/ListNode_Base.html" title="pt.ist.fenixframework.adt.linkedlist.ListNode_Base" alt="" coords="2305,214,2413,239"/>
+<area shape="rect" id="node15_14" href="../adt/linkedlist/LinkedList_Base.html" title="pt.ist.fenixframework.adt.linkedlist.LinkedList_Base" alt="" coords="2458,214,2574,239"/>
+<area shape="rect" id="node16_15" href="../adt/skiplist/SkipListNode_Base.html" title="pt.ist.fenixframework.adt.skiplist.SkipListNode_Base" alt="" coords="2620,214,2753,239"/>
+<area shape="rect" id="node17_16" href="../adt/skiplist/SkipList_Base.html" title="pt.ist.fenixframework.adt.skiplist.SkipList_Base" alt="" coords="2799,214,2903,239"/>
+<area shape="rect" id="node18_17" href="../consistencyPredicates/DomainDependenceRecord_Base.html" title="pt.ist.fenixframework.consistencyPredicates.DomainDependenceRecord_Base" alt="" coords="2948,214,3161,239"/>
+<area shape="rect" id="node19_18" href="../consistencyPredicates/DomainConsistencyPredicate_Base.html" title="pt.ist.fenixframework.consistencyPredicates.DomainConsistencyPredicate_Base" alt="" coords="3207,214,3435,239"/>
+<area shape="rect" id="node20_19" href="../backend/jvstm/pstm/TransactionStatisticsEntry_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatisticsEntry_Base" alt="" coords="3481,214,3692,239"/>
+<area shape="rect" id="node21_20" href="../backend/jvstm/pstm/FenixFrameworkData_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.FenixFrameworkData_Base" alt="" coords="3738,214,3918,239"/>
+</map>

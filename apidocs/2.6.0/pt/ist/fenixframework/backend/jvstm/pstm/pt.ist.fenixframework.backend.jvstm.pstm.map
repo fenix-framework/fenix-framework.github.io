@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./RemoteCommitOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.RemoteCommitOnlyTransaction" alt="" coords="16,121,220,146"/>
+<area shape="rect" id="node2_1" href="./LockFreeTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.LockFreeTransaction" alt="" coords="404,219,544,245"/>
+<area shape="rect" id="node3_2" href="./LockFreeReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.LockFreeReadOnlyTransaction" alt="" coords="347,315,545,341"/>
+<area shape="rect" id="node4_3" href="./LocalCommitOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.LocalCommitOnlyTransaction" alt="" coords="266,121,455,146"/>
+<area shape="rect" id="node5_4" href="./CommitOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.CommitOnlyTransaction" alt="" coords="159,19,319,45"/>
+<area shape="rect" id="node6_5" href="./ClusteredPersistentTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.ClusteredPersistentTransaction" alt="" coords="590,315,790,341"/>
+<area shape="rect" id="node7_6" href="./ClusteredPersistentReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.ClusteredPersistentReadOnlyTransaction" alt="" coords="561,411,819,437"/>
+<area shape="rect" id="node8_7" href="./VersionNotAvailableException.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VersionNotAvailableException" alt="" coords="1009,19,1203,45"/>
+<area shape="rect" id="node9_8" href="./VersionedValue.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VersionedValue" alt="" coords="1315,19,1425,45"/>
+<area shape="rect" id="node10_9" href="./VersionedSubject.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VersionedSubject" alt="" coords="1504,11,1625,53"/>
+<area shape="rect" id="node12_10" href="./VBox.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VBox" alt="" coords="1527,121,1603,146"/>
+<area shape="rect" id="node11_11" href="./VBoxCache.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VBoxCache" alt="" coords="1671,19,1759,45"/>
+<area shape="rect" id="node20_12" href="./StandaloneVBox.html" title="pt.ist.fenixframework.backend.jvstm.pstm.StandaloneVBox" alt="" coords="1406,219,1547,245"/>
+<area shape="rect" id="node23_13" href="./OwnedVBox.html" title="pt.ist.fenixframework.backend.jvstm.pstm.OwnedVBox" alt="" coords="1593,219,1709,245"/>
+<area shape="rect" id="node13_14" href="./TransactionStatisticsEntry_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatisticsEntry_Base" alt="" coords="1805,19,2015,45"/>
+<area shape="rect" id="node14_15" href="./TransactionStatisticsEntry.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatisticsEntry" alt="" coords="1825,121,1995,146"/>
+<area shape="rect" id="node15_16" href="./TransactionStatistics.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatistics" alt="" coords="2061,19,2201,45"/>
+<area shape="rect" id="node16_17" href="./TransactionStatistics.Report.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatistics.Report" alt="" coords="2247,19,2306,45"/>
+<area shape="rect" id="node17_18" href="./TransactionStatistics.CounterStats.html" title="pt.ist.fenixframework.backend.jvstm.pstm.TransactionStatistics.CounterStats" alt="" coords="2352,19,2447,45"/>
+<area shape="rect" id="node18_19" href="./StatisticsThread.html" title="pt.ist.fenixframework.backend.jvstm.pstm.StatisticsThread" alt="" coords="2492,19,2605,45"/>
+<area shape="rect" id="node19_20" href="./StatisticsCapableTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.StatisticsCapableTransaction" alt="" coords="501,112,690,155"/>
+<area shape="rect" id="node21_21" href="./PersistentTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.PersistentTransaction" alt="" coords="618,219,762,245"/>
+<area shape="rect" id="node22_22" href="./PersistentReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.PersistentReadOnlyTransaction" alt="" coords="835,315,1038,341"/>
+<area shape="rect" id="node24_23" href="./NonPersistentTopLevelTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentTopLevelTransaction" alt="" coords="736,121,956,146"/>
+<area shape="rect" id="node25_24" href="./NonPersistentTopLevelReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentTopLevelReadOnlyTransaction" alt="" coords="975,219,1253,245"/>
+<area shape="rect" id="node26_25" href="./NonPersistentReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentReadOnlyTransaction" alt="" coords="1001,121,1227,146"/>
+<area shape="rect" id="node27_26" href="./NonPersistentNestedTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentNestedTransaction" alt="" coords="1272,121,1481,146"/>
+<area shape="rect" id="node28_27" href="./JvstmInFenixTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.JvstmInFenixTransaction" alt="" coords="781,11,945,53"/>
+<area shape="rect" id="node29_28" href="./FenixFrameworkData_Base.html" title="pt.ist.fenixframework.backend.jvstm.pstm.FenixFrameworkData_Base" alt="" coords="2651,19,2831,45"/>
+<area shape="rect" id="node30_29" href="./FenixFrameworkData.html" title="pt.ist.fenixframework.backend.jvstm.pstm.FenixFrameworkData" alt="" coords="2671,121,2811,146"/>
+<area shape="rect" id="node31_30" href="./DomainClassInfo.html" title="pt.ist.fenixframework.backend.jvstm.pstm.DomainClassInfo" alt="" coords="2876,19,2995,45"/>
+</map>

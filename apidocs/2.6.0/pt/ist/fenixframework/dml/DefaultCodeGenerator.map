@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./DAPCodeGenerator.html" title="pt.ist.fenixframework.dml.DAPCodeGenerator" alt="" coords="16,209,149,234"/>
+<area shape="rect" id="node2_1" href="./ValueTypeSerializationGenerator.html" title="pt.ist.fenixframework.dml.ValueTypeSerializationGenerator" alt="" coords="195,209,403,234"/>
+<area shape="rect" id="node3_2" href="./DefaultCodeGenerator.html" title="pt.ist.fenixframework.dml.DefaultCodeGenerator" alt="" coords="117,113,265,138"/>
+<area shape="rect" id="node4_3" href="./CodeGenerator.html" title="pt.ist.fenixframework.dml.CodeGenerator" alt="" coords="138,17,243,42"/>
+</map>

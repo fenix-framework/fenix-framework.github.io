@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./IncludeProjectDependenciesComponentConfigurator.html" title="pt.ist.fenixframework.maven.IncludeProjectDependenciesComponentConfigurator" alt="" coords="16,17,340,42"/>
+<area shape="rect" id="node2_1" href="./FFTestDmlPostProcessorMojo.html" title="pt.ist.fenixframework.maven.FFTestDmlPostProcessorMojo" alt="" coords="385,17,579,42"/>
+<area shape="rect" id="node3_2" href="./FFTestDmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.maven.FFTestDmlCodeGeneratorMojo" alt="" coords="625,17,822,42"/>
+<area shape="rect" id="node4_3" href="./FFDmlZipCreatorMojo.html" title="pt.ist.fenixframework.maven.FFDmlZipCreatorMojo" alt="" coords="868,17,1013,42"/>
+<area shape="rect" id="node5_4" href="./FFDmlPostProcessorMojo.html" title="pt.ist.fenixframework.maven.FFDmlPostProcessorMojo" alt="" coords="1059,17,1227,42"/>
+<area shape="rect" id="node6_5" href="./FFDmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.maven.FFDmlCodeGeneratorMojo" alt="" coords="1273,17,1445,42"/>
+</map>

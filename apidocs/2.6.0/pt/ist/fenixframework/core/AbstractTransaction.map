@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../FenixAbstractTransaction.html" title="pt.ist.fenixframework.FenixAbstractTransaction" alt="" coords="283,17,451,42"/>
+<area shape="rect" id="node2_1" href="./AbstractTransaction.html" title="pt.ist.fenixframework.core.AbstractTransaction" alt="" coords="299,113,435,138"/>
+<area shape="rect" id="node3_2" href="../backend/jvstm/JVSTMTransaction.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMTransaction" alt="" coords="16,209,144,234"/>
+<area shape="rect" id="node4_3" href="../backend/jvstmmem/JVSTMMemTransaction.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemTransaction" alt="" coords="190,209,346,234"/>
+<area shape="rect" id="node5_4" href="../backend/jvstmojb/JvstmOJBTransaction.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBTransaction" alt="" coords="391,209,539,234"/>
+<area shape="rect" id="node6_5" href="../backend/mem/MemTransaction.html" title="pt.ist.fenixframework.backend.mem.MemTransaction" alt="" coords="585,209,701,234"/>
+</map>

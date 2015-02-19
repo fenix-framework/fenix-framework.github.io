@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../core/AbstractTransaction.html" title="pt.ist.fenixframework.core.AbstractTransaction" alt="" coords="26,17,162,42"/>
+<area shape="rect" id="node2_1" href="./JVSTMMemTransaction.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemTransaction" alt="" coords="16,113,172,138"/>
+</map>

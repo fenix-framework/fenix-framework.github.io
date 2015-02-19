@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./NonPersistentTopLevelReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentTopLevelReadOnlyTransaction" alt="" coords="52,214,331,239"/>
+<area shape="rect" id="node2_1" href="./NonPersistentReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentReadOnlyTransaction" alt="" coords="79,118,304,143"/>
+<area shape="rect" id="node3_2" href="./JvstmInFenixTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.JvstmInFenixTransaction" alt="" coords="16,11,180,53"/>
+<area shape="rect" id="node4_3" href="http://java.sun.com/j2se/1.4.2/docs/api/jvstm/ReadTransaction.html" title="jvstm.ReadTransaction" alt="" coords="226,19,343,45"/>
+</map>

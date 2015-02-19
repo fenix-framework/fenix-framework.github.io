@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./LockFreeRepository.html" title="pt.ist.fenixframework.backend.jvstm.repository.LockFreeRepository" alt="" coords="17,219,153,245"/>
+<area shape="rect" id="node2_1" href="./ExtendedRepository.html" title="pt.ist.fenixframework.backend.jvstm.repository.ExtendedRepository" alt="" coords="16,112,155,155"/>
+<area shape="rect" id="node3_2" href="./DataGrid.html" title="pt.ist.fenixframework.backend.jvstm.repository.DataGrid" alt="" coords="254,11,338,53"/>
+<area shape="rect" id="node4_3" href="./Repository.html" title="pt.ist.fenixframework.backend.jvstm.repository.Repository" alt="" coords="125,11,209,53"/>
+<area shape="rect" id="node6_4" href="./NoRepository.html" title="pt.ist.fenixframework.backend.jvstm.repository.NoRepository" alt="" coords="200,121,299,146"/>
+<area shape="rect" id="node5_5" href="./PersistenceException.html" title="pt.ist.fenixframework.backend.jvstm.repository.PersistenceException" alt="" coords="383,19,529,45"/>
+</map>

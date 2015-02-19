@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./StatisticsCapableTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.StatisticsCapableTransaction" alt="" coords="16,112,205,155"/>
+<area shape="rect" id="node2_1" href="./NonPersistentTopLevelTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentTopLevelTransaction" alt="" coords="251,121,471,146"/>
+<area shape="rect" id="node3_2" href="./NonPersistentReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentReadOnlyTransaction" alt="" coords="517,121,742,146"/>
+<area shape="rect" id="node4_3" href="./NonPersistentNestedTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.NonPersistentNestedTransaction" alt="" coords="787,121,997,146"/>
+<area shape="rect" id="node5_4" href="./JvstmInFenixTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.JvstmInFenixTransaction" alt="" coords="413,11,577,53"/>
+</map>

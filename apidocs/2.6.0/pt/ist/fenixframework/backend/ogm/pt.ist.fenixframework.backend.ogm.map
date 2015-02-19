@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./OgmCodeGenerator.html" title="pt.ist.fenixframework.backend.ogm.OgmCodeGenerator" alt="" coords="16,17,152,42"/>
+<area shape="rect" id="node2_1" href="./OgmTransactionManager.html" title="pt.ist.fenixframework.backend.ogm.OgmTransactionManager" alt="" coords="198,17,365,42"/>
+<area shape="rect" id="node3_2" href="./OgmOID.html" title="pt.ist.fenixframework.backend.ogm.OgmOID" alt="" coords="411,17,483,42"/>
+<area shape="rect" id="node4_3" href="./OgmDomainObject.html" title="pt.ist.fenixframework.backend.ogm.OgmDomainObject" alt="" coords="529,17,658,42"/>
+<area shape="rect" id="node5_4" href="./OgmConfig.html" title="pt.ist.fenixframework.backend.ogm.OgmConfig" alt="" coords="703,17,790,42"/>
+<area shape="rect" id="node6_5" href="./OgmBackEnd.html" title="pt.ist.fenixframework.backend.ogm.OgmBackEnd" alt="" coords="836,17,937,42"/>
+<area shape="rect" id="node7_6" href="./DynamicEntityTuplizer.html" title="pt.ist.fenixframework.backend.ogm.DynamicEntityTuplizer" alt="" coords="983,17,1132,42"/>
+<area shape="rect" id="node8_7" href="./AllocationInterceptor.html" title="pt.ist.fenixframework.backend.ogm.AllocationInterceptor" alt="" coords="1178,17,1318,42"/>
+</map>

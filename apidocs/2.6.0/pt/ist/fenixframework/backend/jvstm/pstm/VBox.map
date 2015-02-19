@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../FenixVBox.html" title="pt.ist.fenixframework.backend.jvstm.FenixVBox" alt="" coords="16,11,124,53"/>
+<area shape="rect" id="node3_1" href="./VBox.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VBox" alt="" coords="192,118,268,143"/>
+<area shape="rect" id="node2_2" href="./VersionedSubject.html" title="pt.ist.fenixframework.backend.jvstm.pstm.VersionedSubject" alt="" coords="169,11,291,53"/>
+<area shape="rect" id="node4_3" href="./StandaloneVBox.html" title="pt.ist.fenixframework.backend.jvstm.pstm.StandaloneVBox" alt="" coords="73,214,214,239"/>
+<area shape="rect" id="node5_4" href="./OwnedVBox.html" title="pt.ist.fenixframework.backend.jvstm.pstm.OwnedVBox" alt="" coords="260,214,376,239"/>
+<area shape="rect" id="node6_5" href="http://java.sun.com/j2se/1.4.2/docs/api/jvstm/VBox.html" title="jvstm.VBox" alt="" coords="336,19,412,45"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./StubDomainBasedMap.html" title="pt.ist.fenixframework.dml.runtime.StubDomainBasedMap" alt="" coords="16,118,317,143"/>
+<area shape="rect" id="node2_1" href="./RoleOne.html" title="pt.ist.fenixframework.dml.runtime.RoleOne" alt="" coords="363,118,760,143"/>
+<area shape="rect" id="node3_2" href="./RoleMany.html" title="pt.ist.fenixframework.dml.runtime.RoleMany" alt="" coords="805,118,1211,143"/>
+<area shape="rect" id="node4_3" href="./RoleEmpty.html" title="pt.ist.fenixframework.dml.runtime.RoleEmpty" alt="" coords="1257,118,1674,143"/>
+<area shape="rect" id="node5_4" href="./Role.html" title="pt.ist.fenixframework.dml.runtime.Role" alt="" coords="818,11,1198,53"/>
+<area shape="rect" id="node6_5" href="./RelationListener.html" title="pt.ist.fenixframework.dml.runtime.RelationListener" alt="" coords="1721,11,2167,53"/>
+<area shape="rect" id="node9_6" href="./RelationAdapter.html" title="pt.ist.fenixframework.dml.runtime.RelationAdapter" alt="" coords="1720,118,2168,143"/>
+<area shape="rect" id="node7_7" href="./RelationBaseSet.html" title="pt.ist.fenixframework.dml.runtime.RelationBaseSet" alt="" coords="2420,11,2561,53"/>
+<area shape="rect" id="node8_8" href="./RelationAwareSet.html" title="pt.ist.fenixframework.dml.runtime.RelationAwareSet" alt="" coords="2214,118,2767,143"/>
+<area shape="rect" id="node10_9" href="./Relation.html" title="pt.ist.fenixframework.dml.runtime.Relation" alt="" coords="3077,11,3477,53"/>
+<area shape="rect" id="node12_10" href="./InverseRelation.html" title="pt.ist.fenixframework.dml.runtime.InverseRelation" alt="" coords="2813,118,3257,143"/>
+<area shape="rect" id="node15_11" href="./DirectRelation.html" title="pt.ist.fenixframework.dml.runtime.DirectRelation" alt="" coords="3303,118,3737,143"/>
+<area shape="rect" id="node11_12" href="./KeyFunction.html" title="pt.ist.fenixframework.dml.runtime.KeyFunction" alt="" coords="3523,11,3931,53"/>
+<area shape="rect" id="node13_13" href="./DomainBasedMap.html" title="pt.ist.fenixframework.dml.runtime.DomainBasedMap" alt="" coords="29,11,304,53"/>
+<area shape="rect" id="node14_14" href="./DomainBasedMap.Getter.html" title="pt.ist.fenixframework.dml.runtime.DomainBasedMap.Getter" alt="" coords="3977,11,4181,53"/>
+</map>

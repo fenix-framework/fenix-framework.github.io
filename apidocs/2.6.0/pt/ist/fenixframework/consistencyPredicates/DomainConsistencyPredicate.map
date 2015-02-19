@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./PublicConsistencyPredicate_Base.html" title="pt.ist.fenixframework.consistencyPredicates.PublicConsistencyPredicate_Base" alt="" coords="16,209,236,234"/>
+<area shape="rect" id="node2_1" href="./PrivateConsistencyPredicate_Base.html" title="pt.ist.fenixframework.consistencyPredicates.PrivateConsistencyPredicate_Base" alt="" coords="282,209,506,234"/>
+<area shape="rect" id="node3_2" href="./DomainConsistencyPredicate_Base.html" title="pt.ist.fenixframework.consistencyPredicates.DomainConsistencyPredicate_Base" alt="" coords="145,17,373,42"/>
+<area shape="rect" id="node4_3" href="./DomainConsistencyPredicate.html" title="pt.ist.fenixframework.consistencyPredicates.DomainConsistencyPredicate" alt="" coords="164,113,355,138"/>
+</map>

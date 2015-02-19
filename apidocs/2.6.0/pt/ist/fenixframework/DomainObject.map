@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="169,112,272,155"/>
+<area shape="rect" id="node2_1" href="./core/AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="16,222,167,247"/>
+<area shape="rect" id="node3_2" href="./dml/runtime/DomainBasedMap.html" title="pt.ist.fenixframework.dml.runtime.DomainBasedMap" alt="" coords="213,213,487,256"/>
+<area shape="rect" id="node4_3" href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/Serializable.html" title="java.io.Serializable" alt="" coords="177,11,264,53"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./DomainDependenceRecord_Base.html" title="pt.ist.fenixframework.consistencyPredicates.DomainDependenceRecord_Base" alt="" coords="16,19,229,45"/>
+<area shape="rect" id="node2_1" href="./DomainDependenceRecord.html" title="pt.ist.fenixframework.consistencyPredicates.DomainDependenceRecord" alt="" coords="178,118,358,143"/>
+<area shape="rect" id="node3_2" href="http://java.sun.com/j2se/1.4.2/docs/api/jvstm/cps/DependenceRecord.html" title="jvstm.cps.DependenceRecord" alt="" coords="275,11,552,53"/>
+</map>

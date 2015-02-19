@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ModifiableEntity.html" title="pt.ist.fenixframework.dml.ModifiableEntity" alt="" coords="43,19,155,45"/>
+<area shape="rect" id="node3_1" href="./DomainEntity.html" title="pt.ist.fenixframework.dml.DomainEntity" alt="" coords="122,118,219,143"/>
+<area shape="rect" id="node2_2" href="./DomainExternalEntity.html" title="pt.ist.fenixframework.dml.DomainExternalEntity" alt="" coords="16,214,160,239"/>
+<area shape="rect" id="node4_3" href="./DomainClass.html" title="pt.ist.fenixframework.dml.DomainClass" alt="" coords="205,214,301,239"/>
+<area shape="rect" id="node5_4" href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/Serializable.html" title="java.io.Serializable" alt="" coords="201,11,287,53"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../dml/runtime/DomainBasedMap.html" title="pt.ist.fenixframework.dml.runtime.DomainBasedMap" alt="" coords="16,11,291,53"/>
+<area shape="rect" id="node4_1" href="./BPlusTree.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree" alt="" coords="161,118,386,143"/>
+<area shape="rect" id="node2_2" href="./DomainBPlusTree_Base.html" title="pt.ist.fenixframework.adt.bplustree.DomainBPlusTree_Base" alt="" coords="193,214,354,239"/>
+<area shape="rect" id="node3_3" href="./BPlusTree_Base.html" title="pt.ist.fenixframework.adt.bplustree.BPlusTree_Base" alt="" coords="336,19,453,45"/>
+</map>

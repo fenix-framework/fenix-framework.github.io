@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./DmlTokenTypes.html" title="pt.ist.fenixframework.dml.DmlTokenTypes" alt="" coords="16,11,129,53"/>
+<area shape="rect" id="node2_1" href="./DmlLexer.html" title="pt.ist.fenixframework.dml.DmlLexer" alt="" coords="185,118,259,143"/>
+<area shape="rect" id="node3_2" href="http://java.sun.com/j2se/1.4.2/docs/api/antlr/CharScanner.html" title="antlr.CharScanner" alt="" coords="175,19,269,45"/>
+<area shape="rect" id="node4_3" href="http://java.sun.com/j2se/1.4.2/docs/api/antlr/TokenStream.html" title="antlr.TokenStream" alt="" coords="315,11,411,53"/>
+</map>

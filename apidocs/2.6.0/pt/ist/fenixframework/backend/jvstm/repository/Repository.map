@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ExtendedRepository.html" title="pt.ist.fenixframework.backend.jvstm.repository.ExtendedRepository" alt="" coords="16,112,155,155"/>
+<area shape="rect" id="node2_1" href="./Repository.html" title="pt.ist.fenixframework.backend.jvstm.repository.Repository" alt="" coords="289,11,373,53"/>
+<area shape="rect" id="node3_2" href="./NoRepository.html" title="pt.ist.fenixframework.backend.jvstm.repository.NoRepository" alt="" coords="200,121,299,146"/>
+<area shape="rect" id="node4_3" href="../datagrid/DataGridRepository.html" title="pt.ist.fenixframework.backend.jvstm.datagrid.DataGridRepository" alt="" coords="345,121,479,146"/>
+<area shape="rect" id="node5_4" href="../infinispan/InfinispanRepository.html" title="pt.ist.fenixframework.backend.jvstm.infinispan.InfinispanRepository" alt="" coords="525,121,665,146"/>
+</map>

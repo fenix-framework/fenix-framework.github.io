@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./RecoverableRollbackException.html" title="pt.ist.fenixframework.core.exception.RecoverableRollbackException" alt="" coords="16,113,217,138"/>
+<area shape="rect" id="node2_1" href="./MissingObjectException.html" title="pt.ist.fenixframework.core.exception.MissingObjectException" alt="" coords="315,17,478,42"/>
+<area shape="rect" id="node3_2" href="./FenixRollbackException.html" title="pt.ist.fenixframework.core.exception.FenixRollbackException" alt="" coords="37,17,197,42"/>
+<area shape="rect" id="node4_3" href="./SpecifiedDmlFileNotFoundException.html" title="pt.ist.fenixframework.core.exception.SpecifiedDmlFileNotFoundException" alt="" coords="263,113,495,138"/>
+<area shape="rect" id="node5_4" href="./ProjectPropertiesNotFoundException.html" title="pt.ist.fenixframework.core.exception.ProjectPropertiesNotFoundException" alt="" coords="541,113,773,138"/>
+<area shape="rect" id="node6_5" href="./ProjectException.html" title="pt.ist.fenixframework.core.exception.ProjectException" alt="" coords="597,17,716,42"/>
+<area shape="rect" id="node7_6" href="./NoProjectNameSpecifiedException.html" title="pt.ist.fenixframework.core.exception.NoProjectNameSpecifiedException" alt="" coords="819,113,1041,138"/>
+</map>

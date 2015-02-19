@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../hibernatesearch/HibernateSearchConfig.html" title="pt.ist.fenixframework.hibernatesearch.HibernateSearchConfig" alt="" coords="99,17,251,42"/>
+<area shape="rect" id="node2_1" href="./JVSTMConfig.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMConfig" alt="" coords="125,113,224,138"/>
+<area shape="rect" id="node3_2" href="./cluster/JvstmClusterConfig.html" title="pt.ist.fenixframework.backend.jvstm.cluster.JvstmClusterConfig" alt="" coords="16,209,149,234"/>
+<area shape="rect" id="node4_3" href="./lf/JvstmLockFreeConfig.html" title="pt.ist.fenixframework.backend.jvstm.lf.JvstmLockFreeConfig" alt="" coords="195,209,341,234"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WriteOnlyPersistentField.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.WriteOnlyPersistentField" alt="" coords="16,214,179,239"/>
+<area shape="rect" id="node2_1" href="./ReadOnlyPersistentField.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.ReadOnlyPersistentField" alt="" coords="225,214,389,239"/>
+<area shape="rect" id="node3_2" href="./FenixPersistentField.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.FenixPersistentField" alt="" coords="132,118,271,143"/>
+<area shape="rect" id="node4_3" href="http://java.sun.com/j2se/1.4.2/docs/api/org/apache/ojb/broker/metadata/fieldaccess/PersistentField.html" title="org.apache.ojb.broker.metadata.fieldaccess.PersistentField" alt="" coords="149,11,254,53"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../core/AbstractTransactionManager.html" title="pt.ist.fenixframework.core.AbstractTransactionManager" alt="" coords="23,17,209,42"/>
+<area shape="rect" id="node2_1" href="./JvstmOJBTransactionManager.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBTransactionManager" alt="" coords="16,113,216,138"/>
+</map>

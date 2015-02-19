@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Config.html" title="pt.ist.fenixframework.Config" alt="" coords="178,17,234,42"/>
+<area shape="rect" id="node2_1" href="./consistencyPredicates/ConsistencyPredicatesConfig.html" title="pt.ist.fenixframework.consistencyPredicates.ConsistencyPredicatesConfig" alt="" coords="16,113,207,138"/>
+<area shape="rect" id="node3_2" href="./dap/FFDAPConfig.html" title="pt.ist.fenixframework.dap.FFDAPConfig" alt="" coords="252,113,352,138"/>
+</map>

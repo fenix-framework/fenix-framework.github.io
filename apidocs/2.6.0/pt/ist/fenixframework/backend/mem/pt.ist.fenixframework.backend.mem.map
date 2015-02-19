@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./MemCodeGenerator.html" title="pt.ist.fenixframework.backend.mem.MemCodeGenerator" alt="" coords="16,17,152,42"/>
+<area shape="rect" id="node2_1" href="./MemTransactionManager.html" title="pt.ist.fenixframework.backend.mem.MemTransactionManager" alt="" coords="198,17,365,42"/>
+<area shape="rect" id="node3_2" href="./MemTransaction.html" title="pt.ist.fenixframework.backend.mem.MemTransaction" alt="" coords="410,17,526,42"/>
+<area shape="rect" id="node4_3" href="./MemDomainObject.html" title="pt.ist.fenixframework.backend.mem.MemDomainObject" alt="" coords="571,17,703,42"/>
+<area shape="rect" id="node5_4" href="./MemConfig.html" title="pt.ist.fenixframework.backend.mem.MemConfig" alt="" coords="749,17,835,42"/>
+<area shape="rect" id="node6_5" href="./MemBackEnd.html" title="pt.ist.fenixframework.backend.mem.MemBackEnd" alt="" coords="881,17,983,42"/>
+<area shape="rect" id="node7_6" href="./DomainClassInfo.html" title="pt.ist.fenixframework.backend.mem.DomainClassInfo" alt="" coords="1029,17,1147,42"/>
+</map>

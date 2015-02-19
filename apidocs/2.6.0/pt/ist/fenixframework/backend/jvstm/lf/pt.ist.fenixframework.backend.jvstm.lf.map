@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./JvstmLockFreeCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstm.lf.JvstmLockFreeCodeGenerator" alt="" coords="16,19,212,45"/>
+<area shape="rect" id="node2_1" href="./SimpleWriteSet.html" title="pt.ist.fenixframework.backend.jvstm.lf.SimpleWriteSet" alt="" coords="257,19,365,45"/>
+<area shape="rect" id="node3_2" href="./SimpleReadSet.html" title="pt.ist.fenixframework.backend.jvstm.lf.SimpleReadSet" alt="" coords="411,19,521,45"/>
+<area shape="rect" id="node4_3" href="./RemoteWriteSet.html" title="pt.ist.fenixframework.backend.jvstm.lf.RemoteWriteSet" alt="" coords="567,19,680,45"/>
+<area shape="rect" id="node5_4" href="./LockFreeClusterUtils.html" title="pt.ist.fenixframework.backend.jvstm.lf.LockFreeClusterUtils" alt="" coords="725,19,865,45"/>
+<area shape="rect" id="node6_5" href="./JvstmLockFreeConfig.html" title="pt.ist.fenixframework.backend.jvstm.lf.JvstmLockFreeConfig" alt="" coords="911,19,1058,45"/>
+<area shape="rect" id="node7_6" href="./JvstmLockFreeBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.lf.JvstmLockFreeBackEnd" alt="" coords="1104,19,1265,45"/>
+<area shape="rect" id="node8_7" href="./InitTransaction.html" title="pt.ist.fenixframework.backend.jvstm.lf.InitTransaction" alt="" coords="1311,19,1415,45"/>
+<area shape="rect" id="node9_8" href="./CommitRequest.html" title="pt.ist.fenixframework.backend.jvstm.lf.CommitRequest" alt="" coords="1461,19,1575,45"/>
+<area shape="rect" id="node10_9" href="./CommitRequest.ValidationStatus.html" title="pt.ist.fenixframework.backend.jvstm.lf.CommitRequest.ValidationStatus" alt="" coords="1620,11,1733,53"/>
+<area shape="rect" id="node11_10" href="./CommitHelper.html" title="pt.ist.fenixframework.backend.jvstm.lf.CommitHelper" alt="" coords="1779,19,1881,45"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./VersionNotAvailableException.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.VersionNotAvailableException" alt="" coords="16,19,211,45"/>
+<area shape="rect" id="node2_1" href="./VersionedSubject.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.VersionedSubject" alt="" coords="257,11,378,53"/>
+<area shape="rect" id="node3_2" href="./VBox.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.VBox" alt="" coords="107,118,183,143"/>
+<area shape="rect" id="node15_3" href="./RelationList.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.RelationList" alt="" coords="229,118,749,143"/>
+<area shape="rect" id="node4_4" href="./Util.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.Util" alt="" coords="430,19,469,45"/>
+<area shape="rect" id="node5_5" href="./TransactionSupport.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionSupport" alt="" coords="521,19,653,45"/>
+<area shape="rect" id="node6_6" href="./TransactionStatistics.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionStatistics" alt="" coords="698,19,838,45"/>
+<area shape="rect" id="node7_7" href="./TransactionStatistics.Report.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionStatistics.Report" alt="" coords="884,19,943,45"/>
+<area shape="rect" id="node8_8" href="./TransactionStatistics.CounterStats.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionStatistics.CounterStats" alt="" coords="989,19,1083,45"/>
+<area shape="rect" id="node9_9" href="./TransactionReport.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionReport" alt="" coords="1129,19,1255,45"/>
+<area shape="rect" id="node10_10" href="./TransactionReport.ReportEntry.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionReport.ReportEntry" alt="" coords="1300,19,1388,45"/>
+<area shape="rect" id="node11_11" href="./TransactionChangeLogs.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionChangeLogs" alt="" coords="1433,19,1593,45"/>
+<area shape="rect" id="node12_12" href="./TransactionAction.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TransactionAction" alt="" coords="1639,11,1763,53"/>
+<area shape="rect" id="node13_13" href="./TopLevelTransaction.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TopLevelTransaction" alt="" coords="1590,118,1730,143"/>
+<area shape="rect" id="node14_14" href="./TopLevelTransaction.Pair.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.TopLevelTransaction.Pair" alt="" coords="1977,19,2018,45"/>
+<area shape="rect" id="node16_15" href="./OneBoxDomainObject.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.OneBoxDomainObject" alt="" coords="2070,118,2218,143"/>
+<area shape="rect" id="node17_16" href="./OneBoxDomainObject.DO_State.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.OneBoxDomainObject.DO_State" alt="" coords="2265,19,2341,45"/>
+<area shape="rect" id="node18_17" href="./LoggingRelation.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.LoggingRelation" alt="" coords="2387,19,2835,45"/>
+<area shape="rect" id="node19_18" href="./FenixTransaction.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.FenixTransaction" alt="" coords="1809,11,1927,53"/>
+<area shape="rect" id="node20_19" href="./FenixConsistencyCheckTransaction.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.FenixConsistencyCheckTransaction" alt="" coords="1776,118,2003,143"/>
+<area shape="rect" id="node21_20" href="./DomainClassInfo.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.DomainClassInfo" alt="" coords="2881,19,2999,45"/>
+<area shape="rect" id="node22_21" href="./DOFunctionalSet.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.DOFunctionalSet" alt="" coords="3045,19,3376,45"/>
+<area shape="rect" id="node23_22" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.AbstractDomainObject" alt="" coords="2069,19,2219,45"/>
+<area shape="rect" id="node24_23" href="./AbstractDomainObject.UnableToDetermineIdException.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.AbstractDomainObject.UnableToDetermineIdException" alt="" coords="3422,19,3626,45"/>
+</map>

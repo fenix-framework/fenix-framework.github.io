@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WriteOnReadError.html" title="pt.ist.fenixframework.core.WriteOnReadError" alt="" coords="16,118,140,143"/>
+<area shape="rect" id="node2_1" href="./TransactionError.html" title="pt.ist.fenixframework.core.TransactionError" alt="" coords="21,19,135,45"/>
+<area shape="rect" id="node3_2" href="./SharedIdentityMap.html" title="pt.ist.fenixframework.core.SharedIdentityMap" alt="" coords="186,118,317,143"/>
+<area shape="rect" id="node4_3" href="./JsonElementWrapper.html" title="pt.ist.fenixframework.core.JsonElementWrapper" alt="" coords="342,19,486,45"/>
+<area shape="rect" id="node5_4" href="./IdentityMap.html" title="pt.ist.fenixframework.core.IdentityMap" alt="" coords="207,11,296,53"/>
+<area shape="rect" id="node6_5" href="./ExternalizationException.html" title="pt.ist.fenixframework.core.ExternalizationException" alt="" coords="531,19,694,45"/>
+<area shape="rect" id="node7_6" href="./Externalization.html" title="pt.ist.fenixframework.core.Externalization" alt="" coords="739,19,843,45"/>
+<area shape="rect" id="node8_7" href="./Externalization.NullClass.html" title="pt.ist.fenixframework.core.Externalization.NullClass" alt="" coords="889,19,963,45"/>
+<area shape="rect" id="node9_8" href="./AbstractTransactionManager.html" title="pt.ist.fenixframework.core.AbstractTransactionManager" alt="" coords="1009,19,1195,45"/>
+<area shape="rect" id="node10_9" href="./AbstractTransaction.html" title="pt.ist.fenixframework.core.AbstractTransaction" alt="" coords="1241,19,1377,45"/>
+<area shape="rect" id="node11_10" href="./AbstractDomainObjectAdapter.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter" alt="" coords="1398,118,1598,143"/>
+<area shape="rect" id="node12_11" href="./AbstractDomainObjectAdapter.SerializedForm.html" title="pt.ist.fenixframework.core.AbstractDomainObjectAdapter.SerializedForm" alt="" coords="1644,118,1749,143"/>
+<area shape="rect" id="node13_12" href="./PostProcessDomainClasses.html" title="pt.ist.fenixframework.core.PostProcessDomainClasses" alt="" coords="1803,118,1987,143"/>
+<area shape="rect" id="node14_13" href="./FullPostProcessDomainClasses.html" title="pt.ist.fenixframework.core.FullPostProcessDomainClasses" alt="" coords="2040,19,2244,45"/>
+<area shape="rect" id="node15_14" href="./AbstractDomainPostProcessor.html" title="pt.ist.fenixframework.core.AbstractDomainPostProcessor" alt="" coords="1796,19,1995,45"/>
+<area shape="rect" id="node16_15" href="./Project.html" title="pt.ist.fenixframework.core.Project" alt="" coords="2289,19,2349,45"/>
+<area shape="rect" id="node17_16" href="./DomainObjectAllocator.html" title="pt.ist.fenixframework.core.DomainObjectAllocator" alt="" coords="2395,19,2548,45"/>
+<area shape="rect" id="node18_17" href="./DomainObjectAllocator.OID.html" title="pt.ist.fenixframework.core.DomainObjectAllocator.OID" alt="" coords="2598,19,2641,45"/>
+<area shape="rect" id="node19_18" href="./DmlFile.html" title="pt.ist.fenixframework.core.DmlFile" alt="" coords="2691,19,2753,45"/>
+<area shape="rect" id="node20_19" href="./AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="1423,19,1573,45"/>
+<area shape="rect" id="node21_20" href="./AbstractDomainObject.SerializedForm.html" title="pt.ist.fenixframework.core.AbstractDomainObject.SerializedForm" alt="" coords="1643,19,1750,45"/>
+</map>

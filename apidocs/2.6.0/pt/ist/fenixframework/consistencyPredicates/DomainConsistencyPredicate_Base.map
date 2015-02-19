@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../core/AbstractDomainObject.html" title="pt.ist.fenixframework.core.AbstractDomainObject" alt="" coords="55,17,205,42"/>
+<area shape="rect" id="node2_1" href="./DomainConsistencyPredicate_Base.html" title="pt.ist.fenixframework.consistencyPredicates.DomainConsistencyPredicate_Base" alt="" coords="16,113,244,138"/>
+<area shape="rect" id="node3_2" href="./DomainConsistencyPredicate.html" title="pt.ist.fenixframework.consistencyPredicates.DomainConsistencyPredicate" alt="" coords="35,209,225,234"/>
+</map>

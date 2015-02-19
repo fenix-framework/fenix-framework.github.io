@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Relation.html" title="pt.ist.fenixframework.dml.runtime.Relation" alt="" coords="40,11,440,53"/>
+<area shape="rect" id="node2_1" href="./DirectRelation.html" title="pt.ist.fenixframework.dml.runtime.DirectRelation" alt="" coords="23,118,457,143"/>
+<area shape="rect" id="node3_2" href="../../backend/jvstmojb/pstm/LoggingRelation.html" title="pt.ist.fenixframework.backend.jvstmojb.pstm.LoggingRelation" alt="" coords="16,214,464,239"/>
+</map>

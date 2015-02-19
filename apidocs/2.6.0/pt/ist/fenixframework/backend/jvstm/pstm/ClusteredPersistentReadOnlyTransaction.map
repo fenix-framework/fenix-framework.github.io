@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ClusteredPersistentTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.ClusteredPersistentTransaction" alt="" coords="45,17,245,42"/>
+<area shape="rect" id="node2_1" href="./ClusteredPersistentReadOnlyTransaction.html" title="pt.ist.fenixframework.backend.jvstm.pstm.ClusteredPersistentReadOnlyTransaction" alt="" coords="16,113,275,138"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Slot.html" title="pt.ist.fenixframework.dml.Slot" alt="" coords="21,113,62,138"/>
+<area shape="rect" id="node2_1" href="./Role.html" title="pt.ist.fenixframework.dml.Role" alt="" coords="115,113,160,138"/>
+<area shape="rect" id="node3_2" href="./ModifiableEntity.html" title="pt.ist.fenixframework.dml.ModifiableEntity" alt="" coords="81,17,193,42"/>
+<area shape="rect" id="node4_3" href="./DomainEntity.html" title="pt.ist.fenixframework.dml.DomainEntity" alt="" coords="209,113,306,138"/>
+</map>

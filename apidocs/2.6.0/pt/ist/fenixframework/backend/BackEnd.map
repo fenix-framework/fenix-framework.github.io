@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./BackEnd.html" title="pt.ist.fenixframework.backend.BackEnd" alt="" coords="471,11,555,53"/>
+<area shape="rect" id="node2_1" href="./infinispan/InfinispanBackEnd.html" title="pt.ist.fenixframework.backend.infinispan.InfinispanBackEnd" alt="" coords="16,118,145,143"/>
+<area shape="rect" id="node3_2" href="./jvstm/JVSTMBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMBackEnd" alt="" coords="191,118,304,143"/>
+<area shape="rect" id="node4_3" href="./jvstmmem/JVSTMMemBackEnd.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemBackEnd" alt="" coords="349,118,492,143"/>
+<area shape="rect" id="node5_4" href="./jvstmojb/JvstmOJBBackEnd.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBBackEnd" alt="" coords="537,118,672,143"/>
+<area shape="rect" id="node6_5" href="./mem/MemBackEnd.html" title="pt.ist.fenixframework.backend.mem.MemBackEnd" alt="" coords="718,118,819,143"/>
+<area shape="rect" id="node7_6" href="./ogm/OgmBackEnd.html" title="pt.ist.fenixframework.backend.ogm.OgmBackEnd" alt="" coords="865,118,966,143"/>
+</map>

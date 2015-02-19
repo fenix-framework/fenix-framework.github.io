@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./JvstmOJBTransactionManager.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBTransactionManager" alt="" coords="16,17,216,42"/>
+<area shape="rect" id="node2_1" href="./JvstmOJBTransaction.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBTransaction" alt="" coords="262,17,410,42"/>
+<area shape="rect" id="node3_2" href="./JvstmOJBConsistencyPredicateSupport.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBConsistencyPredicateSupport" alt="" coords="455,17,710,42"/>
+<area shape="rect" id="node4_3" href="./JvstmOJBConfig.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBConfig" alt="" coords="756,17,876,42"/>
+<area shape="rect" id="node5_4" href="./JvstmOJBBackEnd.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBBackEnd" alt="" coords="922,17,1057,42"/>
+</map>

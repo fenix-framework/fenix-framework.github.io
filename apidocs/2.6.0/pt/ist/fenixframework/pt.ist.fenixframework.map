@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./DomainMetaObject_Base.html" title="pt.ist.fenixframework.DomainMetaObject_Base" alt="" coords="16,19,184,45"/>
+<area shape="rect" id="node2_1" href="./DomainMetaObject.html" title="pt.ist.fenixframework.DomainMetaObject" alt="" coords="34,118,166,143"/>
+<area shape="rect" id="node3_2" href="./DomainMetaClass_Base.html" title="pt.ist.fenixframework.DomainMetaClass_Base" alt="" coords="229,19,392,45"/>
+<area shape="rect" id="node4_3" href="./DomainMetaClass.html" title="pt.ist.fenixframework.DomainMetaClass" alt="" coords="248,118,373,143"/>
+<area shape="rect" id="node5_4" href="./DomainFenixFrameworkRoot_Base.html" title="pt.ist.fenixframework.DomainFenixFrameworkRoot_Base" alt="" coords="437,19,661,45"/>
+<area shape="rect" id="node6_5" href="./DomainFenixFrameworkRoot.html" title="pt.ist.fenixframework.DomainFenixFrameworkRoot" alt="" coords="457,118,641,143"/>
+<area shape="rect" id="node7_6" href="./DomainBPlusTreeJVSTM_Base.html" title="pt.ist.fenixframework.DomainBPlusTreeJVSTM_Base" alt="" coords="772,19,977,45"/>
+<area shape="rect" id="node8_7" href="./DomainBPlusTreeJVSTM.html" title="pt.ist.fenixframework.DomainBPlusTreeJVSTM" alt="" coords="687,118,1063,143"/>
+<area shape="rect" id="node9_8" href="./DomainBPlusTreeData_Base.html" title="pt.ist.fenixframework.DomainBPlusTreeData_Base" alt="" coords="1089,19,1277,45"/>
+<area shape="rect" id="node10_9" href="./DomainBPlusTreeData.html" title="pt.ist.fenixframework.DomainBPlusTreeData" alt="" coords="1108,118,1257,143"/>
+<area shape="rect" id="node11_10" href="./ValueTypeSerializer.html" title="pt.ist.fenixframework.ValueTypeSerializer" alt="" coords="1323,19,1456,45"/>
+<area shape="rect" id="node12_11" href="./TransactionManager.html" title="pt.ist.fenixframework.TransactionManager" alt="" coords="1502,11,1639,53"/>
+<area shape="rect" id="node13_12" href="./TransactionListener.html" title="pt.ist.fenixframework.TransactionListener" alt="" coords="1685,11,1817,53"/>
+<area shape="rect" id="node14_13" href="./Transaction.html" title="pt.ist.fenixframework.Transaction" alt="" coords="1862,11,1949,53"/>
+<area shape="rect" id="node18_14" href="./FenixAbstractTransaction.html" title="pt.ist.fenixframework.FenixAbstractTransaction" alt="" coords="1821,118,1989,143"/>
+<area shape="rect" id="node15_15" href="./NoDomainMetaObjects.html" title="pt.ist.fenixframework.NoDomainMetaObjects" alt="" coords="1994,19,2147,45"/>
+<area shape="rect" id="node16_16" href="./MultiConfig.html" title="pt.ist.fenixframework.MultiConfig" alt="" coords="2193,19,2279,45"/>
+<area shape="rect" id="node17_17" href="./FenixFramework.html" title="pt.ist.fenixframework.FenixFramework" alt="" coords="2325,19,2438,45"/>
+<area shape="rect" id="node19_18" href="./DomainRoot_Base.html" title="pt.ist.fenixframework.DomainRoot_Base" alt="" coords="2484,19,2612,45"/>
+<area shape="rect" id="node20_19" href="./DomainRoot.html" title="pt.ist.fenixframework.DomainRoot" alt="" coords="2503,118,2593,143"/>
+<area shape="rect" id="node21_20" href="./DomainModelUtil.html" title="pt.ist.fenixframework.DomainModelUtil" alt="" coords="2658,19,2777,45"/>
+<area shape="rect" id="node22_21" href="./ConfigError.html" title="pt.ist.fenixframework.ConfigError" alt="" coords="2822,19,2906,45"/>
+<area shape="rect" id="node23_22" href="./Config.html" title="pt.ist.fenixframework.Config" alt="" coords="2952,19,3008,45"/>
+<area shape="rect" id="node24_23" href="./CommitListener.html" title="pt.ist.fenixframework.CommitListener" alt="" coords="3054,11,3165,53"/>
+<area shape="rect" id="node25_24" href="./CallableWithoutException.html" title="pt.ist.fenixframework.CallableWithoutException" alt="" coords="3211,11,3405,53"/>
+<area shape="rect" id="node26_25" href="./Atomic.html" title="pt.ist.fenixframework.Atomic" alt="" coords="3451,19,3511,45"/>
+<area shape="rect" id="node27_26" href="./Atomic.TxMode.html" title="pt.ist.fenixframework.Atomic.TxMode" alt="" coords="3557,11,3661,53"/>
+<area shape="rect" id="node28_27" href="./DmlCompiler.html" title="pt.ist.fenixframework.DmlCompiler" alt="" coords="3707,19,3802,45"/>
+<area shape="rect" id="node29_28" href="./DomainObject.html" title="pt.ist.fenixframework.DomainObject" alt="" coords="3847,11,3950,53"/>
+<area shape="rect" id="node30_29" href="./DomainModelParser.html" title="pt.ist.fenixframework.DomainModelParser" alt="" coords="3996,19,4132,45"/>
+<area shape="rect" id="node31_30" href="./Constants.html" title="pt.ist.fenixframework.Constants" alt="" coords="4178,19,4257,45"/>
+</map>

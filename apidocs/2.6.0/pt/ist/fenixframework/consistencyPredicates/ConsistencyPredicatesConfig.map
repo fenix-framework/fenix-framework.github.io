@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../Config.html" title="pt.ist.fenixframework.Config" alt="" coords="83,17,139,42"/>
+<area shape="rect" id="node2_1" href="./ConsistencyPredicatesConfig.html" title="pt.ist.fenixframework.consistencyPredicates.ConsistencyPredicatesConfig" alt="" coords="16,113,207,138"/>
+<area shape="rect" id="node3_2" href="../backend/jvstmojb/JvstmOJBConfig.html" title="pt.ist.fenixframework.backend.jvstmojb.JvstmOJBConfig" alt="" coords="51,209,171,234"/>
+</map>

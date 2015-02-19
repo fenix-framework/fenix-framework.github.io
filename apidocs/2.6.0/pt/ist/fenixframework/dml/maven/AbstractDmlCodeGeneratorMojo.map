@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./TestDmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.dml.maven.TestDmlCodeGeneratorMojo" alt="" coords="16,209,200,234"/>
+<area shape="rect" id="node2_1" href="./DmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.dml.maven.DmlCodeGeneratorMojo" alt="" coords="246,209,405,234"/>
+<area shape="rect" id="node3_2" href="./AbstractDmlCodeGeneratorMojo.html" title="pt.ist.fenixframework.dml.maven.AbstractDmlCodeGeneratorMojo" alt="" coords="113,113,319,138"/>
+<area shape="rect" id="node4_3" href="http://java.sun.com/j2se/1.4.2/docs/api/org/apache/maven/plugin/AbstractMojo.html" title="org.apache.maven.plugin.AbstractMojo" alt="" coords="168,17,264,42"/>
+</map>

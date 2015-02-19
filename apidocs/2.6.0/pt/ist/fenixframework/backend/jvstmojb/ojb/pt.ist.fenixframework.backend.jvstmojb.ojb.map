@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WriteOnlyPersistentField.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.WriteOnlyPersistentField" alt="" coords="16,113,179,138"/>
+<area shape="rect" id="node2_1" href="./ReadOnlyPersistentField.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.ReadOnlyPersistentField" alt="" coords="225,113,389,138"/>
+<area shape="rect" id="node3_2" href="./OJBMetadataGenerator.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.OJBMetadataGenerator" alt="" coords="316,17,473,42"/>
+<area shape="rect" id="node4_3" href="./OJBFunctionalSetWrapper.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.OJBFunctionalSetWrapper" alt="" coords="519,17,692,42"/>
+<area shape="rect" id="node5_4" href="./MetadataManager.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.MetadataManager" alt="" coords="737,17,863,42"/>
+<area shape="rect" id="node6_5" href="./FenixPersistentField.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.FenixPersistentField" alt="" coords="132,17,271,42"/>
+<area shape="rect" id="node7_6" href="./FenixJdbcAccessImpl.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.FenixJdbcAccessImpl" alt="" coords="909,17,1059,42"/>
+<area shape="rect" id="node8_7" href="./FenixCacheWrapper.html" title="pt.ist.fenixframework.backend.jvstmojb.ojb.FenixCacheWrapper" alt="" coords="1105,17,1242,42"/>
+</map>

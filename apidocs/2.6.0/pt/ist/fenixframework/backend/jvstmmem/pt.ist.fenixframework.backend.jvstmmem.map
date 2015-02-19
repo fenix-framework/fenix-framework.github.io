@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./JVSTMMemCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemCodeGenerator" alt="" coords="16,17,193,42"/>
+<area shape="rect" id="node2_1" href="./JVSTMMemTransactionManager.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemTransactionManager" alt="" coords="239,17,447,42"/>
+<area shape="rect" id="node3_2" href="./JVSTMMemTransaction.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemTransaction" alt="" coords="493,17,649,42"/>
+<area shape="rect" id="node4_3" href="./JVSTMMemDomainObject.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemDomainObject" alt="" coords="695,17,867,42"/>
+<area shape="rect" id="node5_4" href="./JVSTMMemConfig.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemConfig" alt="" coords="913,17,1041,42"/>
+<area shape="rect" id="node6_5" href="./JVSTMMemBackEnd.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemBackEnd" alt="" coords="1087,17,1229,42"/>
+<area shape="rect" id="node7_6" href="./DomainClassInfo.html" title="pt.ist.fenixframework.backend.jvstmmem.DomainClassInfo" alt="" coords="1275,17,1393,42"/>
+</map>

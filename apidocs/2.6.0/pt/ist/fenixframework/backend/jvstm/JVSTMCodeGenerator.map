@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../dml/IndexesCodeGenerator.html" title="pt.ist.fenixframework.dml.IndexesCodeGenerator" alt="" coords="378,17,533,42"/>
+<area shape="rect" id="node2_1" href="./JVSTMCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMCodeGenerator" alt="" coords="381,113,529,138"/>
+<area shape="rect" id="node3_2" href="./datagrid/JvstmDataGridCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstm.datagrid.JvstmDataGridCodeGenerator" alt="" coords="16,209,212,234"/>
+<area shape="rect" id="node4_3" href="./infinispan/JvstmIspnCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstm.infinispan.JvstmIspnCodeGenerator" alt="" coords="257,209,427,234"/>
+<area shape="rect" id="node5_4" href="./lf/JvstmLockFreeCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstm.lf.JvstmLockFreeCodeGenerator" alt="" coords="472,209,668,234"/>
+<area shape="rect" id="node6_5" href="../jvstmmem/JVSTMMemCodeGenerator.html" title="pt.ist.fenixframework.backend.jvstmmem.JVSTMMemCodeGenerator" alt="" coords="713,209,891,234"/>
+</map>

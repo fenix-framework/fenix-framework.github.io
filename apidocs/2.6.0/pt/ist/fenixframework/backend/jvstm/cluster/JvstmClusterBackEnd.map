@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../JVSTMBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.JVSTMBackEnd" alt="" coords="135,17,249,42"/>
+<area shape="rect" id="node2_1" href="./JvstmClusterBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.cluster.JvstmClusterBackEnd" alt="" coords="117,113,267,138"/>
+<area shape="rect" id="node3_2" href="../datagrid/JvstmDataGridBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.datagrid.JvstmDataGridBackEnd" alt="" coords="16,209,176,234"/>
+<area shape="rect" id="node4_3" href="../infinispan/JvstmIspnBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.infinispan.JvstmIspnBackEnd" alt="" coords="222,209,357,234"/>
+</map>

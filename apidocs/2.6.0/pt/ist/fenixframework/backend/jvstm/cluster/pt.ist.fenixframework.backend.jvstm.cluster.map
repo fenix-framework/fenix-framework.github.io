@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./RemoteCommit.html" title="pt.ist.fenixframework.backend.jvstm.cluster.RemoteCommit" alt="" coords="50,17,159,42"/>
+<area shape="rect" id="node2_1" href="./RemoteCommit.SpeculativeRemoteCommit.html" title="pt.ist.fenixframework.backend.jvstm.cluster.RemoteCommit.SpeculativeRemoteCommit" alt="" coords="16,113,193,138"/>
+<area shape="rect" id="node3_2" href="./JvstmClusterConfig.html" title="pt.ist.fenixframework.backend.jvstm.cluster.JvstmClusterConfig" alt="" coords="205,17,338,42"/>
+<area shape="rect" id="node4_3" href="./JvstmClusterBackEnd.html" title="pt.ist.fenixframework.backend.jvstm.cluster.JvstmClusterBackEnd" alt="" coords="383,17,533,42"/>
+<area shape="rect" id="node5_4" href="./ClusterUtils.html" title="pt.ist.fenixframework.backend.jvstm.cluster.ClusterUtils" alt="" coords="579,17,665,42"/>
+</map>

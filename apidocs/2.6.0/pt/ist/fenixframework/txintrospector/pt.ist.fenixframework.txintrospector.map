@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./TxStats.html" title="pt.ist.fenixframework.txintrospector.TxStats" alt="" coords="36,118,100,143"/>
+<area shape="rect" id="node2_1" href="./TxIntrospector.html" title="pt.ist.fenixframework.txintrospector.TxIntrospector" alt="" coords="16,11,120,53"/>
+<area shape="rect" id="node3_2" href="./TxIntrospector.Entry.html" title="pt.ist.fenixframework.txintrospector.TxIntrospector.Entry" alt="" coords="166,19,215,45"/>
+<area shape="rect" id="node4_3" href="./TxIntrospector.RelationChangelog.html" title="pt.ist.fenixframework.txintrospector.TxIntrospector.RelationChangelog" alt="" coords="262,19,391,45"/>
+</map>
