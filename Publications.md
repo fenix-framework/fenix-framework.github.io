@@ -14,7 +14,7 @@ Framework.  They are sorted by publication year.
 
   * **Strict Serializability is Harmless: A New Architecture for Enterprise
     Applications**, Sérgio Miguel Fernandes, João Cachopo, 2011, SPLASH
-    Wavefront 2011. [PDF](https://dspace.ist.utl.pt/bitstream/2295/1015911/2/wafr07-fernandesps.pdf)
+    Wavefront 2011. [PDF](http://www.sfernandes.net/permalinks/publications/2011-fernandes-splash-wavefront.pdf)
 
   * **Towards a simple programming model in Cloud Computing platforms**, Jorge
       Martins, João Dias Pereira, Sérgio Miguel Fernandes, João Cachopo, 2011,
@@ -28,7 +28,7 @@ Framework.  They are sorted by publication year.
 
   * **Development of Rich Domain Models with Atomic Actions**, João Cachopo,
       2007, Instituto Superior Técnico/Universidade Técnica de
-      Lisboa. [PDF](https://dspace.ist.utl.pt/bitstream/2295/132008/2/cachopo-phd.pdf)
+      Lisboa. [PDF](https://drive.google.com/file/d/0B8hMVUjuYxUKYU0xRzAzZWIxVWs/view?usp=sharing)
 
   * **Combining Software Transactional Memory with a Domain Modeling Language
     to Simplify Web Application Development**, João Cachopo, António Rito
